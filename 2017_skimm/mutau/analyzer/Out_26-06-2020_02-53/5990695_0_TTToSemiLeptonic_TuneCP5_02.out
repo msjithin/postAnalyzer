@@ -1,0 +1,57 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:724219
+Running over 724219 events.
+Finished entry 0/724218
+Finished entry 30000/724218
+Finished entry 60000/724218
+Finished entry 90000/724218
+Finished entry 120000/724218
+Finished entry 150000/724218
+Finished entry 180000/724218
+Finished entry 210000/724218
+Finished entry 240000/724218
+Finished entry 270000/724218
+Finished entry 300000/724218
+Finished entry 330000/724218
+Finished entry 360000/724218
+Finished entry 390000/724218
+Finished entry 420000/724218
+Finished entry 450000/724218
+Finished entry 480000/724218
+Finished entry 510000/724218
+Finished entry 540000/724218
+Finished entry 570000/724218
+Finished entry 600000/724218
+Finished entry 630000/724218
+Finished entry 660000/724218
+Finished entry 690000/724218
+Finished entry 720000/724218
+Finished entry 724218/724218
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 724219.000000
+   Passing smikking 0.000000
+Inspected genWeightd 719111.000000   % change= 0.705312
+   METFiltersPassed 710282.921473   % change= 1.227638
+    SingleTrgPassed 460834.193576   % change= 35.119629
+     GoodMuonPassed 403202.492799   % change= 12.505952
+      GoodTauPassed 13394.579239   % change= 96.677952
+         opp charge 10379.523793   % change= 22.509520
+         after sf 1 0.000000   % change= 22.509520
+         after sf 2 0.000000   % change= 22.509520
+         after sf 3 0.000000   % change= 22.509520
+         after sf 4 8495.527482   % change= 22.509520
+ PassedThirdLepVeto 8397.526387   % change= 19.095263
+     PassedBjetVeto 5714.805330   % change= 31.946563
+       DeltaRPassed 5683.861492   % change= 0.541468
+      Total change :99.215174
+*******************************************
+*******************************************
+Number of events inspected: 724219
+Number of events inspected (minus negative gen. weights): 719111.000000
+ Outpt written to TTToSemiLeptonic_TuneCP5_02.root
+Real time 0:05:59, CP time 240.100

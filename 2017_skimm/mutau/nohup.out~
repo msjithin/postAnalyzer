@@ -1,0 +1,64 @@
+dy sample analysis.....
+********** for MC *********
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:9741229
+Running over 100000 events.
+Finished entry 0/99999
+Finished entry 5000/99999
+Finished entry 10000/99999
+Finished entry 15000/99999
+Finished entry 20000/99999
+Finished entry 25000/99999
+Finished entry 30000/99999
+Finished entry 35000/99999
+Finished entry 40000/99999
+Finished entry 45000/99999
+Finished entry 50000/99999
+Finished entry 55000/99999
+Finished entry 60000/99999
+Finished entry 65000/99999
+Finished entry 70000/99999
+Finished entry 75000/99999
+Finished entry 80000/99999
+Finished entry 85000/99999
+Finished entry 90000/99999
+Finished entry 95000/99999
+nPassedSkimmed = 2163
+Real time 0:01:44, CP time 30.190
+out put written to outSkimmed_mt_dy.root
+data sample analysis.....
+********** for MC *********
+All files added.
+Initializing chain.
+from Init DATA
+Coming in: 
+nentries:25369852
+Running over 100000 events.
+Finished entry 0/99999
+Finished entry 5000/99999
+Finished entry 10000/99999
+Finished entry 15000/99999
+Finished entry 20000/99999
+Finished entry 25000/99999
+Finished entry 30000/99999
+Finished entry 35000/99999
+Finished entry 40000/99999
+Finished entry 45000/99999
+Finished entry 50000/99999
+Finished entry 55000/99999
+Finished entry 60000/99999
+Finished entry 65000/99999
+Finished entry 70000/99999
+Finished entry 75000/99999
+Finished entry 80000/99999
+Finished entry 85000/99999
+Finished entry 90000/99999
+Finished entry 95000/99999
+nPassedSkimmed = 1664
+Real time 0:00:41, CP time 13.240
+out put written to outSkimmed_mt_data.root
+"[ "$plottingOn" == 1 ]" command filed with exit code 0.

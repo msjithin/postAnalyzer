@@ -1,0 +1,59 @@
+All files added.
+Initializing chain.
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:78282
+Running over 78282 events.
+Finished entry 0/78281
+Finished entry 3000/78281
+Finished entry 6000/78281
+Finished entry 9000/78281
+Finished entry 12000/78281
+Finished entry 15000/78281
+Finished entry 18000/78281
+Finished entry 21000/78281
+Finished entry 24000/78281
+Finished entry 27000/78281
+Finished entry 30000/78281
+Finished entry 33000/78281
+Finished entry 36000/78281
+Finished entry 39000/78281
+Finished entry 42000/78281
+Finished entry 45000/78281
+Finished entry 51000/78281
+Finished entry 54000/78281
+Finished entry 57000/78281
+Finished entry 60000/78281
+Finished entry 63000/78281
+Finished entry 66000/78281
+Finished entry 69000/78281
+Finished entry 72000/78281
+Finished entry 75000/78281
+Finished entry 78000/78281
+Finished entry 78281/78281
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 78282.000000
+   Passing smikking 0.000000
+Inspected genWeightd 78282.000000   % change= 0.000000
+   METFiltersPassed 17466.203279   % change= 77.688098
+    SingleTrgPassed 11255.829835   % change= 35.556516
+     GoodMuonPassed 9334.180597   % change= 17.072479
+      GoodTauPassed 3120.747110   % change= 66.566459
+         opp charge 3073.709440   % change= 1.507257
+         after sf 1 0.000000   % change= 1.507257
+         after sf 2 0.000000   % change= 1.507257
+         after sf 3 0.000000   % change= 1.507257
+         after sf 4 2912.113210   % change= 1.507257
+ PassedThirdLepVeto 2444.091544   % change= 20.483976
+     PassedBjetVeto 2368.853306   % change= 3.078372
+       DeltaRPassed 2367.753135   % change= 0.046443
+      Total change :96.975354
+*******************************************
+*******************************************
+Number of events inspected: 78282
+Number of events inspected (minus negative gen. weights): 78282.000000
+ Outpt written to DY1JetsToLL_M-50_TuneCP5_04.root
+Real time 0:00:34, CP time 26.940

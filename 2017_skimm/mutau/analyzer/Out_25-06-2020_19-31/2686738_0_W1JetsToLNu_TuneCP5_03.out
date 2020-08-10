@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:109196
+Running over 109196 events.
+Finished entry 0/109195
+Finished entry 5000/109195
+Finished entry 10000/109195
+Finished entry 15000/109195
+Finished entry 20000/109195
+Finished entry 25000/109195
+Finished entry 30000/109195
+Finished entry 35000/109195
+Finished entry 40000/109195
+Finished entry 45000/109195
+Finished entry 50000/109195
+Finished entry 55000/109195
+Finished entry 60000/109195
+Finished entry 65000/109195
+Finished entry 70000/109195
+Finished entry 75000/109195
+Finished entry 80000/109195
+Finished entry 85000/109195
+Finished entry 90000/109195
+Finished entry 95000/109195
+Finished entry 100000/109195
+Finished entry 105000/109195
+Finished entry 109195/109195
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 109196.000000
+   Passing smikking 0.000000
+Inspected genWeightd 109194.000000   % change= 0.001832
+   METFiltersPassed 105150.261064   % change= 3.703261
+    SingleTrgPassed 82774.621442   % change= 21.279681
+     GoodMuonPassed 71434.666839   % change= 13.699796
+      GoodTauPassed 2151.185791   % change= 96.988597
+         opp charge 1847.458536   % change= 14.119062
+         after sf 1 0.000000   % change= 14.119062
+         after sf 2 0.000000   % change= 14.119062
+         after sf 3 0.000000   % change= 14.119062
+         after sf 4 1533.896317   % change= 14.119062
+ PassedThirdLepVeto 1531.431206   % change= 17.106058
+     PassedBjetVeto 1519.519756   % change= 0.777799
+       DeltaRPassed 1517.338350   % change= 0.143559
+      Total change :98.610445
+*******************************************
+*******************************************
+Number of events inspected: 109196
+Number of events inspected (minus negative gen. weights): 109194.000000
+ Outpt written to W1JetsToLNu_TuneCP5_03.root
+Real time 0:00:59, CP time 24.840

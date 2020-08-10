@@ -1,0 +1,60 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:56964
+Running over 56964 events.
+Finished entry 0/56963
+Finished entry 2000/56963
+Finished entry 6000/56963
+Finished entry 8000/56963
+Finished entry 10000/56963
+Finished entry 12000/56963
+Finished entry 14000/56963
+Finished entry 16000/56963
+Finished entry 18000/56963
+Finished entry 20000/56963
+Finished entry 22000/56963
+Finished entry 24000/56963
+Finished entry 26000/56963
+Finished entry 28000/56963
+Finished entry 30000/56963
+Finished entry 32000/56963
+Finished entry 34000/56963
+Finished entry 36000/56963
+Finished entry 38000/56963
+Finished entry 40000/56963
+Finished entry 42000/56963
+Finished entry 44000/56963
+Finished entry 46000/56963
+Finished entry 48000/56963
+Finished entry 50000/56963
+Finished entry 52000/56963
+Finished entry 54000/56963
+Finished entry 56000/56963
+Finished entry 56963/56963
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 56964.000000
+   Passing smikking 0.000000
+Inspected genWeightd 56892.000000   % change= 0.126396
+   METFiltersPassed 55781.629749   % change= 1.951716
+    SingleTrgPassed 47651.444466   % change= 14.575023
+     GoodMuonPassed 44093.263556   % change= 7.467100
+      GoodTauPassed 4703.486261   % change= 89.332869
+         opp charge 3899.753570   % change= 17.088020
+         after sf 1 0.000000   % change= 17.088020
+         after sf 2 0.000000   % change= 17.088020
+         after sf 3 0.000000   % change= 17.088020
+         after sf 4 3126.053415   % change= 17.088020
+ PassedThirdLepVeto 3103.407577   % change= 20.420418
+     PassedBjetVeto 2962.589961   % change= 4.537516
+       DeltaRPassed 2913.739396   % change= 1.648914
+      Total change :94.884946
+*******************************************
+*******************************************
+Number of events inspected: 56964
+Number of events inspected (minus negative gen. weights): 56892.000000
+ Outpt written to EWKZ2Jets_ZToLL_M-50_TuneCP5_00.root
+Real time 0:00:35, CP time 27.500

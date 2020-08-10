@@ -1,0 +1,23 @@
+#count=$(find . -maxdepth 1 -name '*.root' | wc -l)
+
+nFiles()
+{
+    find . -maxdepth 1 -name '*.root' | wc -l
+}
+
+num_files=$(nFiles)
+echo $(num_files)
+if [ ! "$(num_files)" > "0" ]; then
+     echo "No root files present"
+     exit 0
+fi
+if [ "$(num_files)" < "118" ]; then
+    while [ ! "$(num_files)" == "117"  ]
+    do
+	echo " $(nFiles) files"
+	num_files=$(nFiles)
+	sleep 60
+    done
+else
+    echo "Number of files : $(num_files)"
+fi

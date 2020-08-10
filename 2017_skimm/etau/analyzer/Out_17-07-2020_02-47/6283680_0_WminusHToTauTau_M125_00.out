@@ -1,0 +1,57 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:548669
+Running over 548669 events.
+Finished entry 0/548668
+Finished entry 20000/548668
+Finished entry 40000/548668
+Finished entry 60000/548668
+Finished entry 80000/548668
+Finished entry 100000/548668
+Finished entry 120000/548668
+Finished entry 140000/548668
+Finished entry 160000/548668
+Finished entry 180000/548668
+Finished entry 200000/548668
+Finished entry 220000/548668
+Finished entry 240000/548668
+Finished entry 260000/548668
+Finished entry 280000/548668
+Finished entry 300000/548668
+Finished entry 320000/548668
+Finished entry 340000/548668
+Finished entry 360000/548668
+Finished entry 380000/548668
+Finished entry 400000/548668
+Finished entry 420000/548668
+Finished entry 440000/548668
+Finished entry 460000/548668
+Finished entry 480000/548668
+Finished entry 500000/548668
+Finished entry 520000/548668
+Finished entry 540000/548668
+Finished entry 548668/548668
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 548669.000000
+   Passing smikking 0.000000
+Inspected genWeightd 527459.000000   % change= 3.865719
+   METFiltersPassed 545780.514277   % change= -3.473543
+    SingleTrgPassed 258673.992306   % change= 52.604759
+     GoodMuonPassed 219435.159452   % change= 15.169222
+      GoodTauPassed 89926.338778   % change= 59.019175
+         opp charge 60122.903660   % change= 33.142053
+ PassedThirdLepVeto 13.250560   % change= 99.977961
+     PassedBjetVeto 13.250560   % change= 0.000000
+       DeltaRPassed 10.355410   % change= 21.849262
+      Total change :99.998113
+*******************************************
+*******************************************
+Number of events inspected: 548669
+Number of events inspected (minus negative gen. weights): 527459.000000
+ Outpt written to WminusHToTauTau_M125_00.root
+Real time 0:05:07, CP time 236.000

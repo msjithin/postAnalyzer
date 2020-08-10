@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1535069
+Running over 1535069 events.
+Finished entry 0/1535068
+Finished entry 70000/1535068
+Finished entry 140000/1535068
+Finished entry 210000/1535068
+Finished entry 280000/1535068
+Finished entry 350000/1535068
+Finished entry 420000/1535068
+Finished entry 490000/1535068
+Finished entry 560000/1535068
+Finished entry 630000/1535068
+Finished entry 700000/1535068
+Finished entry 770000/1535068
+Finished entry 840000/1535068
+Finished entry 910000/1535068
+Finished entry 980000/1535068
+Finished entry 1050000/1535068
+Finished entry 1120000/1535068
+Finished entry 1190000/1535068
+Finished entry 1260000/1535068
+Finished entry 1330000/1535068
+Finished entry 1400000/1535068
+Finished entry 1470000/1535068
+Finished entry 1535068/1535068
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1535069.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1535069.000000   % change= 0.000000
+   METFiltersPassed 1529594.000000   % change= 0.356661
+    SingleTrgPassed 1336500.000000   % change= 12.623873
+     GoodMuonPassed 868927.000000   % change= 34.984886
+      GoodTauPassed 19499.000000   % change= 97.755968
+         opp charge 15583.000000   % change= 20.083081
+         after sf 1 15583.000000   % change= 20.083081
+         after sf 2 0.000000   % change= 20.083081
+         after sf 3 0.000000   % change= 20.083081
+         after sf 4 16041.000000   % change= 20.083081
+ PassedThirdLepVeto 15479.000000   % change= 0.667394
+     PassedBjetVeto 14108.000000   % change= 8.857161
+       DeltaRPassed 14053.000000   % change= 0.389850
+      Total change :99.084536
+*******************************************
+*******************************************
+Number of events inspected: 1535069
+Number of events inspected (minus negative gen. weights): 1535069.000000
+ Outpt written to SingleElectron_EraE_01.root
+Real time 0:05:30, CP time 275.690

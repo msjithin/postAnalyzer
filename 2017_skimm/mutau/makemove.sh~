@@ -1,0 +1,27 @@
+
+
+for (( i=0; i<24; i++)); do
+
+    date
+    echo -n """
+    ${i}
+    moving files to /hdfs/store/user/jmadhusu/2017_skimmed/mutau/
+    """
+    mv *.root output/
+    for jobFile in `ls output`; do  
+	echo -n """  
+        ******************************
+         moving  ${jobFile}
+        """   
+	mv output/${jobFile} /hdfs/store/user/jmadhusu/2017_skimmed/mutau/
+	
+    done   
+    
+    
+    echo "Sleep for 5 min"
+    
+    sleep 500
+    
+done
+
+exit 0;

@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:139186
+Running over 139186 events.
+Finished entry 0/139185
+Finished entry 6000/139185
+Finished entry 12000/139185
+Finished entry 18000/139185
+Finished entry 24000/139185
+Finished entry 30000/139185
+Finished entry 36000/139185
+Finished entry 42000/139185
+Finished entry 48000/139185
+Finished entry 54000/139185
+Finished entry 60000/139185
+Finished entry 66000/139185
+Finished entry 72000/139185
+Finished entry 78000/139185
+Finished entry 84000/139185
+Finished entry 90000/139185
+Finished entry 96000/139185
+Finished entry 102000/139185
+Finished entry 108000/139185
+Finished entry 114000/139185
+Finished entry 120000/139185
+Finished entry 126000/139185
+Finished entry 132000/139185
+Finished entry 138000/139185
+Finished entry 139185/139185
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 139186.000000
+   Passing smikking 0.000000
+Inspected genWeightd 138762.000000   % change= 0.304628
+   METFiltersPassed 138551.947235   % change= 0.151376
+    SingleTrgPassed 102311.249768   % change= 26.156758
+     GoodMuonPassed 88420.588726   % change= 13.576866
+      GoodTauPassed 45147.576189   % change= 48.939973
+         opp charge 44802.892722   % change= 0.763460
+         after sf 1 0.000000   % change= 0.763460
+         after sf 2 0.000000   % change= 0.763460
+         after sf 3 0.000000   % change= 0.763460
+         after sf 4 36159.565800   % change= 0.763460
+ PassedThirdLepVeto 36040.907129   % change= 19.556741
+     PassedBjetVeto 34984.334942   % change= 2.931592
+       DeltaRPassed 34938.064118   % change= 0.132262
+      Total change :74.898291
+*******************************************
+*******************************************
+Number of events inspected: 139186
+Number of events inspected (minus negative gen. weights): 138762.000000
+ Outpt written to GluGluHToTauTau_M125_00.root
+Real time 0:01:19, CP time 61.200

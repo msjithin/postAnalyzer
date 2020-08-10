@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:1145763
+Running over 1145763 events.
+Finished entry 0/1145762
+Finished entry 50000/1145762
+Finished entry 100000/1145762
+Finished entry 150000/1145762
+Finished entry 200000/1145762
+Finished entry 250000/1145762
+Finished entry 300000/1145762
+Finished entry 350000/1145762
+Finished entry 400000/1145762
+Finished entry 450000/1145762
+Finished entry 500000/1145762
+Finished entry 550000/1145762
+Finished entry 600000/1145762
+Finished entry 650000/1145762
+Finished entry 700000/1145762
+Finished entry 750000/1145762
+Finished entry 800000/1145762
+Finished entry 850000/1145762
+Finished entry 900000/1145762
+Finished entry 950000/1145762
+Finished entry 1000000/1145762
+Finished entry 1050000/1145762
+Finished entry 1100000/1145762
+Finished entry 1145762/1145762
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1145763.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1145763.000000   % change= 0.000000
+   METFiltersPassed 1135790.000000   % change= 0.870424
+    SingleTrgPassed 961648.000000   % change= 15.332236
+     GoodMuonPassed 623080.000000   % change= 35.207061
+      GoodTauPassed 22876.000000   % change= 96.328561
+         opp charge 18085.000000   % change= 20.943347
+         after sf 1 0.000000   % change= 20.943347
+         after sf 2 0.000000   % change= 20.943347
+         after sf 3 0.000000   % change= 20.943347
+         after sf 4 18085.000000   % change= 20.943347
+ PassedThirdLepVeto 17931.000000   % change= 0.851534
+     PassedBjetVeto 16882.000000   % change= 5.850204
+       DeltaRPassed 16831.000000   % change= 0.302097
+      Total change :98.531023
+*******************************************
+*******************************************
+Number of events inspected: 1145763
+Number of events inspected (minus negative gen. weights): 1145763.000000
+ Outpt written to SingleMuon_EraF_02.root
+Real time 0:04:53, CP time 240.750

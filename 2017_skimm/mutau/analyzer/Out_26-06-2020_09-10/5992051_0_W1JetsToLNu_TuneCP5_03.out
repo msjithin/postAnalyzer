@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:109196
+Running over 109196 events.
+Finished entry 0/109195
+Finished entry 5000/109195
+Finished entry 10000/109195
+Finished entry 15000/109195
+Finished entry 20000/109195
+Finished entry 25000/109195
+Finished entry 30000/109195
+Finished entry 35000/109195
+Finished entry 40000/109195
+Finished entry 45000/109195
+Finished entry 50000/109195
+Finished entry 55000/109195
+Finished entry 60000/109195
+Finished entry 65000/109195
+Finished entry 70000/109195
+Finished entry 75000/109195
+Finished entry 80000/109195
+Finished entry 85000/109195
+Finished entry 90000/109195
+Finished entry 95000/109195
+Finished entry 100000/109195
+Finished entry 105000/109195
+Finished entry 109195/109195
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 109196.000000
+   Passing smikking 0.000000
+Inspected genWeightd 109194.000000   % change= 0.001832
+   METFiltersPassed 105260.885342   % change= 3.601951
+    SingleTrgPassed 82858.283814   % change= 21.282931
+     GoodMuonPassed 71511.160729   % change= 13.694615
+      GoodTauPassed 2154.262816   % change= 96.987515
+         opp charge 1849.725187   % change= 14.136512
+         after sf 1 0.000000   % change= 14.136512
+         after sf 2 0.000000   % change= 14.136512
+         after sf 3 0.000000   % change= 14.136512
+         after sf 4 1535.842074   % change= 14.136512
+ PassedThirdLepVeto 1533.376963   % change= 17.102445
+     PassedBjetVeto 1521.465513   % change= 0.776812
+       DeltaRPassed 1519.284108   % change= 0.143375
+      Total change :98.608663
+*******************************************
+*******************************************
+Number of events inspected: 109196
+Number of events inspected (minus negative gen. weights): 109194.000000
+ Outpt written to W1JetsToLNu_TuneCP5_03.root
+Real time 0:00:54, CP time 44.780

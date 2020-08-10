@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:217955
+Running over 217955 events.
+Finished entry 0/217954
+Finished entry 10000/217954
+Finished entry 20000/217954
+Finished entry 30000/217954
+Finished entry 40000/217954
+Finished entry 50000/217954
+Finished entry 60000/217954
+Finished entry 70000/217954
+Finished entry 80000/217954
+Finished entry 90000/217954
+Finished entry 100000/217954
+Finished entry 110000/217954
+Finished entry 120000/217954
+Finished entry 130000/217954
+Finished entry 140000/217954
+Finished entry 150000/217954
+Finished entry 160000/217954
+Finished entry 170000/217954
+Finished entry 180000/217954
+Finished entry 190000/217954
+Finished entry 200000/217954
+Finished entry 210000/217954
+Finished entry 217954/217954
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 217955.000000
+   Passing smikking 0.000000
+Inspected genWeightd 217955.000000   % change= 0.000000
+   METFiltersPassed 49490.027010   % change= 77.293466
+    SingleTrgPassed 32308.267194   % change= 34.717621
+     GoodMuonPassed 26835.915368   % change= 16.937930
+      GoodTauPassed 9223.833976   % change= 65.628771
+         opp charge 9122.901299   % change= 1.094259
+         after sf 1 0.000000   % change= 1.094259
+         after sf 2 0.000000   % change= 1.094259
+         after sf 3 0.000000   % change= 1.094259
+         after sf 4 7873.267062   % change= 1.094259
+ PassedThirdLepVeto 7239.592055   % change= 20.643753
+     PassedBjetVeto 6983.196433   % change= 3.541576
+       DeltaRPassed 6980.261511   % change= 0.042028
+      Total change :96.797384
+*******************************************
+*******************************************
+Number of events inspected: 217955
+Number of events inspected (minus negative gen. weights): 217955.000000
+ Outpt written to DY1JetsToLL_M-50_TuneCP5_01.root
+Real time 0:01:24, CP time 56.510

@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:887473
+Running over 887473 events.
+Finished entry 0/887472
+Finished entry 40000/887472
+Finished entry 80000/887472
+Finished entry 120000/887472
+Finished entry 160000/887472
+Finished entry 200000/887472
+Finished entry 240000/887472
+Finished entry 280000/887472
+Finished entry 320000/887472
+Finished entry 360000/887472
+Finished entry 400000/887472
+Finished entry 440000/887472
+Finished entry 480000/887472
+Finished entry 520000/887472
+Finished entry 560000/887472
+Finished entry 600000/887472
+Finished entry 640000/887472
+Finished entry 680000/887472
+Finished entry 720000/887472
+Finished entry 760000/887472
+Finished entry 800000/887472
+Finished entry 840000/887472
+Finished entry 880000/887472
+Finished entry 887472/887472
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 887473.000000
+   Passing smikking 0.000000
+Inspected genWeightd 887473.000000   % change= 0.000000
+   METFiltersPassed 880015.000000   % change= 0.840364
+    SingleTrgPassed 543322.000000   % change= 38.259916
+     GoodMuonPassed 390224.000000   % change= 28.178134
+      GoodTauPassed 16148.000000   % change= 95.861864
+         opp charge 13241.000000   % change= 18.002229
+         after sf 1 0.000000   % change= 18.002229
+         after sf 2 0.000000   % change= 18.002229
+         after sf 3 0.000000   % change= 18.002229
+         after sf 4 13241.000000   % change= 18.002229
+ PassedThirdLepVeto 13169.000000   % change= 0.543766
+     PassedBjetVeto 12381.000000   % change= 5.983750
+       DeltaRPassed 12352.000000   % change= 0.234230
+      Total change :98.608183
+*******************************************
+*******************************************
+Number of events inspected: 887473
+Number of events inspected (minus negative gen. weights): 887473.000000
+ Outpt written to SingleMuon_EraB_03.root
+Real time 0:02:20, CP time 104.800

@@ -1,0 +1,79 @@
+000 (3866231.000.000) 04/29 07:38:05 Job submitted from host: <144.92.180.29:9618?addrs=144.92.180.29-9618+[2607-f388-101c-1000--369]-9618&noUDP&sock=1964097_c0ff_3>
+...
+001 (3866231.000.000) 04/29 08:04:22 Job executing on host: <128.104.227.122:9618?addrs=128.104.227.122-9618+[2607-f388-101c-1000--69]-9618&noUDP&sock=15877_e140_3>
+...
+006 (3866231.000.000) 04/29 08:04:31 Image size of job updated: 161564
+	50  -  MemoryUsage of job (MB)
+	50820  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 08:24:31 Image size of job updated: 381736
+	373  -  MemoryUsage of job (MB)
+	381196  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 08:44:31 Image size of job updated: 383312
+	374  -  MemoryUsage of job (MB)
+	382492  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 09:04:32 Image size of job updated: 384024
+	376  -  MemoryUsage of job (MB)
+	384024  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 09:24:33 Image size of job updated: 387940
+	376  -  MemoryUsage of job (MB)
+	384788  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 09:44:33 Image size of job updated: 388876
+	377  -  MemoryUsage of job (MB)
+	385408  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 10:04:33 Image size of job updated: 433096
+	421  -  MemoryUsage of job (MB)
+	430352  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 10:24:33 Image size of job updated: 433808
+	421  -  MemoryUsage of job (MB)
+	430356  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 10:44:33 Image size of job updated: 433924
+	421  -  MemoryUsage of job (MB)
+	430460  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 11:04:34 Image size of job updated: 433924
+	421  -  MemoryUsage of job (MB)
+	430512  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 11:24:35 Image size of job updated: 438080
+	423  -  MemoryUsage of job (MB)
+	432852  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 11:44:36 Image size of job updated: 438328
+	423  -  MemoryUsage of job (MB)
+	433100  -  ResidentSetSize of job (KB)
+...
+006 (3866231.000.000) 04/29 11:57:34 Image size of job updated: 681028
+	423  -  MemoryUsage of job (MB)
+	433100  -  ResidentSetSize of job (KB)
+...
+022 (3866231.000.000) 04/29 12:05:10 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_16@g34n03.hep.wisc.edu <128.104.227.122:9618?addrs=128.104.227.122-9618+[2607-f388-101c-1000--69]-9618&noUDP&sock=15877_e140_3>
+...
+023 (3866231.000.000) 04/29 12:05:10 Job reconnected to slot1_16@g34n03.hep.wisc.edu
+    startd address: <128.104.227.122:9618?addrs=128.104.227.122-9618+[2607-f388-101c-1000--69]-9618&noUDP&sock=15877_e140_3>
+    starter address: <128.104.227.122:9618?addrs=128.104.227.122-9618+[2607-f388-101c-1000--69]-9618&noUDP&sock=15918_6bc0_35213>
+...
+005 (3866231.000.000) 04/29 12:12:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:46:41, Sys 0 00:01:44  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:46:41, Sys 0 00:01:44  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	20736215040  -  Run Bytes Sent By Job
+	218252  -  Run Bytes Received By Job
+	20736215040  -  Total Bytes Sent By Job
+	218252  -  Total Bytes Received By Job
+	Partitionable Resources :       Usage  Request Allocated 
+	   Cpus                 :        0.02        1         1 
+	   Disk (KB)            : 20250484     2048000  19010182 
+	   Memory (MB)          :      423        1992      2048 
+...

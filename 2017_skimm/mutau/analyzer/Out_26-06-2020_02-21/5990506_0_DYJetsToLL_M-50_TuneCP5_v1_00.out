@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:131707
+Running over 131707 events.
+Finished entry 0/131706
+Finished entry 6000/131706
+Finished entry 12000/131706
+Finished entry 18000/131706
+Finished entry 24000/131706
+Finished entry 30000/131706
+Finished entry 36000/131706
+Finished entry 42000/131706
+Finished entry 48000/131706
+Finished entry 54000/131706
+Finished entry 60000/131706
+Finished entry 66000/131706
+Finished entry 72000/131706
+Finished entry 78000/131706
+Finished entry 84000/131706
+Finished entry 90000/131706
+Finished entry 96000/131706
+Finished entry 102000/131706
+Finished entry 108000/131706
+Finished entry 114000/131706
+Finished entry 120000/131706
+Finished entry 126000/131706
+Finished entry 131706/131706
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 131707.000000
+   Passing smikking 0.000000
+Inspected genWeightd 131699.000000   % change= 0.006074
+   METFiltersPassed 40007.775757   % change= 69.621807
+    SingleTrgPassed 25466.472042   % change= 36.346194
+     GoodMuonPassed 20928.023866   % change= 17.821268
+      GoodTauPassed 7739.017586   % change= 63.020791
+         opp charge 7680.676251   % change= 0.753860
+         after sf 1 0.000000   % change= 0.753860
+         after sf 2 0.000000   % change= 0.753860
+         after sf 3 0.000000   % change= 0.753860
+         after sf 4 6332.320953   % change= 0.753860
+ PassedThirdLepVeto 6091.664209   % change= 20.688439
+     PassedBjetVeto 5911.783101   % change= 2.952906
+       DeltaRPassed 5901.441972   % change= 0.174924
+      Total change :95.519265
+*******************************************
+*******************************************
+Number of events inspected: 131707
+Number of events inspected (minus negative gen. weights): 131699.000000
+ Outpt written to DYJetsToLL_M-50_TuneCP5_v1_00.root
+Real time 0:01:18, CP time 62.600

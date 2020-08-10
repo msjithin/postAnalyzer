@@ -1,0 +1,61 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:57291
+Running over 57291 events.
+Finished entry 0/57290
+Finished entry 2000/57290
+Finished entry 4000/57290
+Finished entry 6000/57290
+Finished entry 8000/57290
+Finished entry 10000/57290
+Finished entry 12000/57290
+Finished entry 14000/57290
+Finished entry 16000/57290
+Finished entry 18000/57290
+Finished entry 20000/57290
+Finished entry 22000/57290
+Finished entry 24000/57290
+Finished entry 26000/57290
+Finished entry 28000/57290
+Finished entry 30000/57290
+Finished entry 32000/57290
+Finished entry 34000/57290
+Finished entry 36000/57290
+Finished entry 38000/57290
+Finished entry 40000/57290
+Finished entry 42000/57290
+Finished entry 44000/57290
+Finished entry 46000/57290
+Finished entry 48000/57290
+Finished entry 50000/57290
+Finished entry 52000/57290
+Finished entry 54000/57290
+Finished entry 56000/57290
+Finished entry 57290/57290
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 57291.000000
+   Passing smikking 0.000000
+Inspected genWeightd 57291.000000   % change= 0.000000
+   METFiltersPassed 55997.987551   % change= 2.256921
+    SingleTrgPassed 1355.993085   % change= 97.578497
+     GoodMuonPassed 454.289292   % change= 66.497669
+      GoodTauPassed 9.947948   % change= 97.810217
+         opp charge 6.131085   % change= 38.368351
+         after sf 1 0.000000   % change= 38.368351
+         after sf 2 0.000000   % change= 38.368351
+         after sf 3 0.000000   % change= 38.368351
+         after sf 4 5.269897   % change= 38.368351
+ PassedThirdLepVeto 5.269897   % change= 14.046259
+     PassedBjetVeto 3.125142   % change= 40.698231
+       DeltaRPassed 3.125142   % change= 0.000000
+      Total change :99.994545
+*******************************************
+*******************************************
+Number of events inspected: 57291
+Number of events inspected (minus negative gen. weights): 57291.000000
+ Outpt written to TTToHadronic_TuneCP5_05.root
+Real time 0:00:34, CP time 19.860

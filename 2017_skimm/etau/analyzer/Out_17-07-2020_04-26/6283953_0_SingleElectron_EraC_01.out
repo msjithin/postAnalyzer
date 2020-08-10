@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1098408
+Running over 1098408 events.
+Finished entry 0/1098407
+Finished entry 50000/1098407
+Finished entry 100000/1098407
+Finished entry 150000/1098407
+Finished entry 200000/1098407
+Finished entry 250000/1098407
+Finished entry 300000/1098407
+Finished entry 350000/1098407
+Finished entry 400000/1098407
+Finished entry 450000/1098407
+Finished entry 500000/1098407
+Finished entry 550000/1098407
+Finished entry 600000/1098407
+Finished entry 650000/1098407
+Finished entry 700000/1098407
+Finished entry 750000/1098407
+Finished entry 800000/1098407
+Finished entry 850000/1098407
+Finished entry 900000/1098407
+Finished entry 950000/1098407
+Finished entry 1000000/1098407
+Finished entry 1050000/1098407
+Finished entry 1098407/1098407
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1098408.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1098408.000000   % change= 0.000000
+   METFiltersPassed 1094945.000000   % change= 0.315274
+    SingleTrgPassed 962232.000000   % change= 12.120517
+     GoodMuonPassed 572477.000000   % change= 40.505304
+      GoodTauPassed 13424.000000   % change= 97.655102
+         opp charge 10781.000000   % change= 19.688617
+         after sf 1 10781.000000   % change= 19.688617
+         after sf 2 0.000000   % change= 19.688617
+         after sf 3 0.000000   % change= 19.688617
+         after sf 4 11077.000000   % change= 19.688617
+ PassedThirdLepVeto 10734.000000   % change= 0.435952
+     PassedBjetVeto 9791.000000   % change= 8.785169
+       DeltaRPassed 9752.000000   % change= 0.398325
+      Total change :99.112170
+*******************************************
+*******************************************
+Number of events inspected: 1098408
+Number of events inspected (minus negative gen. weights): 1098408.000000
+ Outpt written to SingleElectron_EraC_01.root
+Real time 0:03:49, CP time 185.570

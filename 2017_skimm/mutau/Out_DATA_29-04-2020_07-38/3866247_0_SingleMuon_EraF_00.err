@@ -1,0 +1,2 @@
+SysError in <TFile::ReadBuffer>: error reading from file /hdfs/store/user/jmadhusu/data2017_31Mar2018_26April2020/SingleMuon/crab_job_SingleMuon_EraF/200426_094254/0000/Ntuple_data2017_SingleMuon_EraF_830.root (Input/output error)
+Error in <TFile::Init>: /hdfs/store/user/jmadhusu/data2017_31Mar2018_26April2020/SingleMuon/crab_job_SingleMuon_EraF/200426_094254/0000/Ntuple_data2017_SingleMuon_EraF_830.root failed to read the file type data.

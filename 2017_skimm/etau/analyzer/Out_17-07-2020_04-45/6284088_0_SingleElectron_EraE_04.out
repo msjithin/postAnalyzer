@@ -1,0 +1,59 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:513843
+Running over 513843 events.
+Finished entry 0/513842
+Finished entry 20000/513842
+Finished entry 40000/513842
+Finished entry 60000/513842
+Finished entry 80000/513842
+Finished entry 100000/513842
+Finished entry 120000/513842
+Finished entry 140000/513842
+Finished entry 160000/513842
+Finished entry 180000/513842
+Finished entry 200000/513842
+Finished entry 220000/513842
+Finished entry 240000/513842
+Finished entry 260000/513842
+Finished entry 280000/513842
+Finished entry 300000/513842
+Finished entry 320000/513842
+Finished entry 340000/513842
+Finished entry 360000/513842
+Finished entry 380000/513842
+Finished entry 400000/513842
+Finished entry 420000/513842
+Finished entry 440000/513842
+Finished entry 460000/513842
+Finished entry 480000/513842
+Finished entry 500000/513842
+Finished entry 513842/513842
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 513843.000000
+   Passing smikking 0.000000
+Inspected genWeightd 513843.000000   % change= 0.000000
+   METFiltersPassed 511925.000000   % change= 0.373266
+    SingleTrgPassed 441946.000000   % change= 13.669776
+     GoodMuonPassed 287320.000000   % change= 34.987532
+      GoodTauPassed 6120.000000   % change= 97.869971
+         opp charge 4910.000000   % change= 19.771242
+         after sf 1 4910.000000   % change= 19.771242
+         after sf 2 0.000000   % change= 19.771242
+         after sf 3 0.000000   % change= 19.771242
+         after sf 4 5045.000000   % change= 19.771242
+ PassedThirdLepVeto 4891.000000   % change= 0.386965
+     PassedBjetVeto 4450.000000   % change= 9.016561
+       DeltaRPassed 4436.000000   % change= 0.314607
+      Total change :99.136701
+*******************************************
+*******************************************
+Number of events inspected: 513843
+Number of events inspected (minus negative gen. weights): 513843.000000
+ Outpt written to SingleElectron_EraE_04.root
+Real time 0:01:53, CP time 98.790

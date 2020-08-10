@@ -1,0 +1,57 @@
+All files added.
+Initializing chain.
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:23021
+Running over 23021 events.
+Finished entry 0/23020
+Finished entry 1000/23020
+Finished entry 2000/23020
+Finished entry 3000/23020
+Finished entry 4000/23020
+Finished entry 5000/23020
+Finished entry 6000/23020
+Finished entry 7000/23020
+Finished entry 8000/23020
+Finished entry 9000/23020
+Finished entry 10000/23020
+Finished entry 11000/23020
+Finished entry 12000/23020
+Finished entry 13000/23020
+Finished entry 14000/23020
+Finished entry 15000/23020
+Finished entry 16000/23020
+Finished entry 17000/23020
+Finished entry 18000/23020
+Finished entry 19000/23020
+Finished entry 20000/23020
+Finished entry 21000/23020
+Finished entry 22000/23020
+Finished entry 23000/23020
+Finished entry 23020/23020
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 23021.000000
+   Passing smikking 0.000000
+Inspected genWeightd 23021.000000   % change= 0.000000
+   METFiltersPassed 4314.239683   % change= 81.259547
+    SingleTrgPassed 2822.433058   % change= 34.578668
+     GoodMuonPassed 2330.236493   % change= 17.438733
+      GoodTauPassed 789.150937   % change= 66.134298
+         opp charge 774.593807   % change= 1.844657
+         after sf 1 0.000000   % change= 1.844657
+         after sf 2 0.000000   % change= 1.844657
+         after sf 3 0.000000   % change= 1.844657
+         after sf 4 704.806144   % change= 1.844657
+ PassedThirdLepVeto 612.788692   % change= 20.889028
+     PassedBjetVeto 582.664440   % change= 4.915928
+       DeltaRPassed 582.059208   % change= 0.103873
+      Total change :97.471616
+*******************************************
+*******************************************
+Number of events inspected: 23021
+Number of events inspected (minus negative gen. weights): 23021.000000
+ Outpt written to DY2JetsToLL_M-50_TuneCP5_01.root
+Real time 0:00:15, CP time 8.420

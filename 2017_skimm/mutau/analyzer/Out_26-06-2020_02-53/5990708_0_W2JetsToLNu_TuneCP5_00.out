@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:137608
+Running over 137608 events.
+Finished entry 0/137607
+Finished entry 6000/137607
+Finished entry 12000/137607
+Finished entry 18000/137607
+Finished entry 24000/137607
+Finished entry 30000/137607
+Finished entry 36000/137607
+Finished entry 42000/137607
+Finished entry 48000/137607
+Finished entry 54000/137607
+Finished entry 60000/137607
+Finished entry 66000/137607
+Finished entry 72000/137607
+Finished entry 78000/137607
+Finished entry 84000/137607
+Finished entry 90000/137607
+Finished entry 96000/137607
+Finished entry 102000/137607
+Finished entry 108000/137607
+Finished entry 114000/137607
+Finished entry 120000/137607
+Finished entry 126000/137607
+Finished entry 132000/137607
+Finished entry 137607/137607
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 137608.000000
+   Passing smikking 0.000000
+Inspected genWeightd 137600.000000   % change= 0.005814
+   METFiltersPassed 133999.529837   % change= 2.616621
+    SingleTrgPassed 105178.876669   % change= 21.508026
+     GoodMuonPassed 90586.343488   % change= 13.874015
+      GoodTauPassed 3079.677521   % change= 96.600285
+         opp charge 2498.851573   % change= 18.859960
+         after sf 1 0.000000   % change= 18.859960
+         after sf 2 0.000000   % change= 18.859960
+         after sf 3 0.000000   % change= 18.859960
+         after sf 4 2076.682328   % change= 18.859960
+ PassedThirdLepVeto 2074.732568   % change= 16.972557
+     PassedBjetVeto 2049.659609   % change= 1.208491
+       DeltaRPassed 2046.191386   % change= 0.169210
+      Total change :98.513029
+*******************************************
+*******************************************
+Number of events inspected: 137608
+Number of events inspected (minus negative gen. weights): 137600.000000
+ Outpt written to W2JetsToLNu_TuneCP5_00.root
+Real time 0:01:15, CP time 57.280

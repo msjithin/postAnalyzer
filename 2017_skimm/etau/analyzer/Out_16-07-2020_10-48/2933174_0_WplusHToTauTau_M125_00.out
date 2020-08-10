@@ -1,0 +1,59 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:539203
+Running over 539203 events.
+Finished entry 0/539202
+Finished entry 20000/539202
+Finished entry 40000/539202
+Finished entry 60000/539202
+Finished entry 80000/539202
+Finished entry 100000/539202
+Finished entry 120000/539202
+Finished entry 140000/539202
+Finished entry 160000/539202
+Finished entry 180000/539202
+Finished entry 220000/539202
+Finished entry 240000/539202
+Finished entry 260000/539202
+Finished entry 280000/539202
+Finished entry 300000/539202
+Finished entry 320000/539202
+Finished entry 340000/539202
+Finished entry 360000/539202
+Finished entry 380000/539202
+Finished entry 400000/539202
+Finished entry 420000/539202
+Finished entry 440000/539202
+Finished entry 460000/539202
+Finished entry 480000/539202
+Finished entry 500000/539202
+Finished entry 520000/539202
+Finished entry 539202/539202
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 539203.000000
+   Passing smikking 0.000000
+Inspected genWeightd 518037.000000   % change= 3.925423
+   METFiltersPassed 517828.815683   % change= 0.040187
+    SingleTrgPassed 248117.469658   % change= 52.085040
+     GoodMuonPassed 212392.292351   % change= 14.398493
+      GoodTauPassed 86580.877938   % change= 59.235396
+         opp charge 57665.315850   % change= 33.397169
+         after sf 1 57665.315850   % change= 33.397169
+         after sf 2 0.000000   % change= 33.397169
+         after sf 3 0.000000   % change= 33.397169
+         after sf 4 46424.643112   % change= 33.397169
+ PassedThirdLepVeto 39982.780405   % change= 30.664075
+     PassedBjetVeto 38241.200580   % change= 4.355825
+       DeltaRPassed 37966.672067   % change= 0.717887
+      Total change :92.958742
+*******************************************
+*******************************************
+Number of events inspected: 539203
+Number of events inspected (minus negative gen. weights): 518037.000000
+ Outpt written to WplusHToTauTau_M125_00.root
+Real time 0:05:15, CP time 227.040

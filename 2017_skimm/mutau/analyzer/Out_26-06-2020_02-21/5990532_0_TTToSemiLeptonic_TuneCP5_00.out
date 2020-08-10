@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:721972
+Running over 721972 events.
+Finished entry 0/721971
+Finished entry 30000/721971
+Finished entry 60000/721971
+Finished entry 90000/721971
+Finished entry 120000/721971
+Finished entry 150000/721971
+Finished entry 180000/721971
+Finished entry 210000/721971
+Finished entry 240000/721971
+Finished entry 270000/721971
+Finished entry 300000/721971
+Finished entry 360000/721971
+Finished entry 390000/721971
+Finished entry 420000/721971
+Finished entry 450000/721971
+Finished entry 480000/721971
+Finished entry 510000/721971
+Finished entry 540000/721971
+Finished entry 570000/721971
+Finished entry 600000/721971
+Finished entry 630000/721971
+Finished entry 660000/721971
+Finished entry 690000/721971
+Finished entry 720000/721971
+Finished entry 721971/721971
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 721972.000000
+   Passing smikking 0.000000
+Inspected genWeightd 717006.000000   % change= 0.687838
+   METFiltersPassed 708809.215451   % change= 1.143196
+    SingleTrgPassed 459431.565002   % change= 35.182620
+     GoodMuonPassed 402023.365386   % change= 12.495484
+      GoodTauPassed 13574.894506   % change= 96.623357
+         opp charge 10504.790364   % change= 22.616044
+         after sf 1 0.000000   % change= 22.616044
+         after sf 2 0.000000   % change= 22.616044
+         after sf 3 0.000000   % change= 22.616044
+         after sf 4 8610.481244   % change= 22.616044
+ PassedThirdLepVeto 8526.047415   % change= 18.836577
+     PassedBjetVeto 5778.291589   % change= 32.227780
+       DeltaRPassed 5749.351844   % change= 0.500836
+      Total change :99.203660
+*******************************************
+*******************************************
+Number of events inspected: 721972
+Number of events inspected (minus negative gen. weights): 717006.000000
+ Outpt written to TTToSemiLeptonic_TuneCP5_00.root
+Real time 0:06:04, CP time 228.370

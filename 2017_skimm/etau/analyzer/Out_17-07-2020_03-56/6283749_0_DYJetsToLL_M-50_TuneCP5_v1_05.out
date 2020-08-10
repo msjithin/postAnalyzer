@@ -1,0 +1,62 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:54462
+Running over 54462 events.
+Finished entry 0/54461
+Finished entry 2000/54461
+Finished entry 4000/54461
+Finished entry 6000/54461
+Finished entry 8000/54461
+Finished entry 10000/54461
+Finished entry 12000/54461
+Finished entry 14000/54461
+Finished entry 16000/54461
+Finished entry 18000/54461
+Finished entry 20000/54461
+Finished entry 22000/54461
+Finished entry 24000/54461
+Finished entry 26000/54461
+Finished entry 28000/54461
+Finished entry 30000/54461
+Finished entry 32000/54461
+Finished entry 34000/54461
+Finished entry 36000/54461
+Finished entry 38000/54461
+Finished entry 40000/54461
+Finished entry 42000/54461
+Finished entry 44000/54461
+Finished entry 46000/54461
+Finished entry 48000/54461
+Finished entry 50000/54461
+Finished entry 52000/54461
+Finished entry 54000/54461
+Finished entry 54461/54461
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 54462.000000
+   Passing smikking 0.000000
+Inspected genWeightd 54456.000000   % change= 0.011017
+   METFiltersPassed 51474.400699   % change= 5.475245
+    SingleTrgPassed 35232.392840   % change= 31.553564
+     GoodMuonPassed 31001.541994   % change= 12.008412
+      GoodTauPassed 711.995833   % change= 97.703353
+         opp charge 601.181811   % change= 15.563858
+         after sf 1 601.181811   % change= 15.563858
+         after sf 2 0.000000   % change= 15.563858
+         after sf 3 0.000000   % change= 15.563858
+         after sf 4 537.372479   % change= 15.563858
+ PassedThirdLepVeto 495.736051   % change= 17.539746
+     PassedBjetVeto 482.166420   % change= 2.737269
+       DeltaRPassed 481.056653   % change= 0.230163
+      Total change :99.116711
+*******************************************
+*******************************************
+Number of events inspected: 54462
+Number of events inspected (minus negative gen. weights): 54456.000000
+ Outpt written to DYJetsToLL_M-50_TuneCP5_v1_05.root
+Real time 0:00:20, CP time 15.610

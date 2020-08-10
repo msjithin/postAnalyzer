@@ -1,0 +1,61 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:548669
+Running over 548669 events.
+Finished entry 0/548668
+Finished entry 20000/548668
+Finished entry 40000/548668
+Finished entry 60000/548668
+Finished entry 80000/548668
+Finished entry 100000/548668
+Finished entry 120000/548668
+Finished entry 140000/548668
+Finished entry 160000/548668
+Finished entry 180000/548668
+Finished entry 200000/548668
+Finished entry 220000/548668
+Finished entry 240000/548668
+Finished entry 260000/548668
+Finished entry 280000/548668
+Finished entry 300000/548668
+Finished entry 320000/548668
+Finished entry 340000/548668
+Finished entry 360000/548668
+Finished entry 380000/548668
+Finished entry 400000/548668
+Finished entry 420000/548668
+Finished entry 440000/548668
+Finished entry 460000/548668
+Finished entry 480000/548668
+Finished entry 500000/548668
+Finished entry 520000/548668
+Finished entry 540000/548668
+Finished entry 548668/548668
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 548669.000000
+   Passing smikking 0.000000
+Inspected genWeightd 527459.000000   % change= 3.865719
+   METFiltersPassed 532893.977620   % change= -1.030408
+    SingleTrgPassed 252634.063786   % change= 52.592059
+     GoodMuonPassed 216782.055679   % change= 14.191280
+      GoodTauPassed 88993.929833   % change= 58.947742
+         opp charge 59453.156539   % change= 33.194144
+         after sf 1 59453.156539   % change= 33.194144
+         after sf 2 0.000000   % change= 33.194144
+         after sf 3 0.000000   % change= 33.194144
+         after sf 4 47912.439254   % change= 33.194144
+ PassedThirdLepVeto 41491.538396   % change= 30.211378
+     PassedBjetVeto 39679.828197   % change= 4.366457
+       DeltaRPassed 39446.990587   % change= 0.586791
+      Total change :92.810421
+*******************************************
+*******************************************
+Number of events inspected: 548669
+Number of events inspected (minus negative gen. weights): 527459.000000
+ Outpt written to WminusHToTauTau_M125_00.root
+Real time 0:04:52, CP time 207.640

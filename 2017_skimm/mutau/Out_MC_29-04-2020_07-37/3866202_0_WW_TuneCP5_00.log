@@ -1,0 +1,51 @@
+000 (3866202.000.000) 04/29 07:37:55 Job submitted from host: <144.92.180.29:9618?addrs=144.92.180.29-9618+[2607-f388-101c-1000--369]-9618&noUDP&sock=1964097_c0ff_3>
+...
+001 (3866202.000.000) 04/29 07:57:09 Job executing on host: <144.92.180.122:9618?addrs=144.92.180.122-9618+[2607-f388-101c-1000--629]-9618&noUDP&sock=3101_9b46_3>
+...
+006 (3866202.000.000) 04/29 07:57:17 Image size of job updated: 211488
+	106  -  MemoryUsage of job (MB)
+	108136  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 08:17:17 Image size of job updated: 474872
+	460  -  MemoryUsage of job (MB)
+	471036  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 08:37:18 Image size of job updated: 476608
+	462  -  MemoryUsage of job (MB)
+	472492  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 08:57:19 Image size of job updated: 477200
+	462  -  MemoryUsage of job (MB)
+	473040  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 09:17:20 Image size of job updated: 478448
+	463  -  MemoryUsage of job (MB)
+	473868  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 09:37:20 Image size of job updated: 478448
+	464  -  MemoryUsage of job (MB)
+	474196  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 09:57:20 Image size of job updated: 478448
+	464  -  MemoryUsage of job (MB)
+	474552  -  ResidentSetSize of job (KB)
+...
+006 (3866202.000.000) 04/29 10:17:21 Image size of job updated: 479324
+	465  -  MemoryUsage of job (MB)
+	475168  -  ResidentSetSize of job (KB)
+...
+005 (3866202.000.000) 04/29 10:18:30 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:26:04, Sys 0 00:01:12  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:26:04, Sys 0 00:01:12  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	755591744  -  Run Bytes Sent By Job
+	218189  -  Run Bytes Received By Job
+	755591744  -  Total Bytes Sent By Job
+	218189  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.19        1         1 
+	   Disk (KB)            : 738158     2048000  18347456 
+	   Memory (MB)          :    465        1992      2048 
+...

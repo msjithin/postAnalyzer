@@ -1,0 +1,54 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:1044294
+Running over 1044294 events.
+Finished entry 0/1044293
+Finished entry 50000/1044293
+Finished entry 100000/1044293
+Finished entry 150000/1044293
+Finished entry 200000/1044293
+Finished entry 250000/1044293
+Finished entry 300000/1044293
+Finished entry 350000/1044293
+Finished entry 400000/1044293
+Finished entry 450000/1044293
+Finished entry 500000/1044293
+Finished entry 550000/1044293
+Finished entry 600000/1044293
+Finished entry 650000/1044293
+Finished entry 700000/1044293
+Finished entry 750000/1044293
+Finished entry 800000/1044293
+Finished entry 850000/1044293
+Finished entry 900000/1044293
+Finished entry 950000/1044293
+Finished entry 1000000/1044293
+Finished entry 1044293/1044293
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1044294.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1036714.000000   % change= 0.725849
+   METFiltersPassed 999221.374745   % change= 3.616487
+    SingleTrgPassed 675620.175444   % change= 32.385336
+     GoodMuonPassed 606605.658630   % change= 10.214988
+      GoodTauPassed 97875.135407   % change= 83.865113
+         opp charge 95405.783150   % change= 2.522962
+         after sf 1 95405.783150   % change= 2.522962
+         after sf 2 0.000000   % change= 2.522962
+         after sf 3 0.000000   % change= 2.522962
+         after sf 4 70807.099654   % change= 2.522962
+ PassedThirdLepVeto 68926.099463   % change= 27.754799
+     PassedBjetVeto 40290.841976   % change= 41.544869
+       DeltaRPassed 39989.979831   % change= 0.746726
+      Total change :96.170621
+*******************************************
+*******************************************
+Number of events inspected: 1044294
+Number of events inspected (minus negative gen. weights): 1036714.000000
+ Outpt written to TTTo2L2Nu_TuneCP5_00.root
+Real time 0:07:21, CP time 304.010

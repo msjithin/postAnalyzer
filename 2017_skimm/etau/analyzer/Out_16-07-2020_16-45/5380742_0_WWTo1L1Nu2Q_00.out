@@ -1,0 +1,61 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:271025
+Running over 271025 events.
+Finished entry 0/271024
+Finished entry 10000/271024
+Finished entry 20000/271024
+Finished entry 30000/271024
+Finished entry 40000/271024
+Finished entry 50000/271024
+Finished entry 60000/271024
+Finished entry 70000/271024
+Finished entry 80000/271024
+Finished entry 90000/271024
+Finished entry 100000/271024
+Finished entry 110000/271024
+Finished entry 120000/271024
+Finished entry 130000/271024
+Finished entry 140000/271024
+Finished entry 150000/271024
+Finished entry 160000/271024
+Finished entry 170000/271024
+Finished entry 180000/271024
+Finished entry 190000/271024
+Finished entry 200000/271024
+Finished entry 210000/271024
+Finished entry 220000/271024
+Finished entry 230000/271024
+Finished entry 240000/271024
+Finished entry 250000/271024
+Finished entry 260000/271024
+Finished entry 270000/271024
+Finished entry 271024/271024
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 271025.000000
+   Passing smikking 0.000000
+Inspected genWeightd 156345.000000   % change= 42.313440
+   METFiltersPassed 257183.180615   % change= -64.497221
+    SingleTrgPassed 165693.730520   % change= 35.573652
+     GoodMuonPassed 141499.060633   % change= 14.602043
+      GoodTauPassed 13887.968870   % change= 90.185116
+         opp charge 13226.438488   % change= 4.763334
+         after sf 1 13226.438488   % change= 4.763334
+         after sf 2 0.000000   % change= 4.763334
+         after sf 3 0.000000   % change= 4.763334
+         after sf 4 9908.414301   % change= 4.763334
+ PassedThirdLepVeto 9810.589949   % change= 25.825913
+     PassedBjetVeto 9465.676424   % change= 3.515727
+       DeltaRPassed 9423.364595   % change= 0.447003
+      Total change :96.523064
+*******************************************
+*******************************************
+Number of events inspected: 271025
+Number of events inspected (minus negative gen. weights): 156345.000000
+ Outpt written to WWTo1L1Nu2Q_00.root
+Real time 0:01:35, CP time 66.380

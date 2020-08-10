@@ -1,0 +1,54 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:103790
+Running over 103790 events.
+Finished entry 0/103789
+Finished entry 5000/103789
+Finished entry 10000/103789
+Finished entry 15000/103789
+Finished entry 20000/103789
+Finished entry 25000/103789
+Finished entry 30000/103789
+Finished entry 35000/103789
+Finished entry 40000/103789
+Finished entry 45000/103789
+Finished entry 50000/103789
+Finished entry 55000/103789
+Finished entry 60000/103789
+Finished entry 65000/103789
+Finished entry 70000/103789
+Finished entry 75000/103789
+Finished entry 80000/103789
+Finished entry 85000/103789
+Finished entry 90000/103789
+Finished entry 95000/103789
+Finished entry 100000/103789
+Finished entry 103789/103789
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 103790.000000
+   Passing smikking 0.000000
+Inspected genWeightd 103790.000000   % change= 0.000000
+   METFiltersPassed 103507.000000   % change= 0.272666
+    SingleTrgPassed 91160.000000   % change= 11.928662
+     GoodMuonPassed 59027.000000   % change= 35.249013
+      GoodTauPassed 1381.000000   % change= 97.660393
+         opp charge 1101.000000   % change= 20.275163
+         after sf 1 1101.000000   % change= 20.275163
+         after sf 2 0.000000   % change= 20.275163
+         after sf 3 0.000000   % change= 20.275163
+         after sf 4 1140.000000   % change= 20.275163
+ PassedThirdLepVeto 1096.000000   % change= 0.454133
+     PassedBjetVeto 998.000000   % change= 8.941606
+       DeltaRPassed 995.000000   % change= 0.300601
+      Total change :99.041333
+*******************************************
+*******************************************
+Number of events inspected: 103790
+Number of events inspected (minus negative gen. weights): 103790.000000
+ Outpt written to SingleElectron_EraD_02.root
+Real time 0:00:22, CP time 18.310

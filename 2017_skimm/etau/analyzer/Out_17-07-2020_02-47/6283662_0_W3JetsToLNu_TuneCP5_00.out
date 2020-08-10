@@ -1,0 +1,60 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:303072
+Running over 303072 events.
+Finished entry 0/303071
+Finished entry 10000/303071
+Finished entry 20000/303071
+Finished entry 30000/303071
+Finished entry 50000/303071
+Finished entry 60000/303071
+Finished entry 70000/303071
+Finished entry 80000/303071
+Finished entry 90000/303071
+Finished entry 100000/303071
+Finished entry 110000/303071
+Finished entry 120000/303071
+Finished entry 130000/303071
+Finished entry 140000/303071
+Finished entry 150000/303071
+Finished entry 160000/303071
+Finished entry 170000/303071
+Finished entry 180000/303071
+Finished entry 190000/303071
+Finished entry 200000/303071
+Finished entry 210000/303071
+Finished entry 220000/303071
+Finished entry 230000/303071
+Finished entry 240000/303071
+Finished entry 250000/303071
+Finished entry 260000/303071
+Finished entry 270000/303071
+Finished entry 280000/303071
+Finished entry 290000/303071
+Finished entry 300000/303071
+Finished entry 303071/303071
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 303072.000000
+   Passing smikking 0.000000
+Inspected genWeightd 303010.000000   % change= 0.020457
+   METFiltersPassed 295606.718374   % change= 2.443247
+    SingleTrgPassed 180041.625603   % change= 39.094204
+     GoodMuonPassed 149187.637465   % change= 17.137141
+      GoodTauPassed 3312.994456   % change= 97.779310
+         opp charge 2671.762274   % change= 19.355064
+ PassedThirdLepVeto 0.000000   % change= 100.000000
+     PassedBjetVeto 0.000000   % change= -nan
+       DeltaRPassed 0.000000   % change= -nan
+      Total change :100.000000
+*******************************************
+*******************************************
+Number of events inspected: 303072
+Number of events inspected (minus negative gen. weights): 303010.000000
+ Outpt written to W3JetsToLNu_TuneCP5_00.root
+Real time 0:01:59, CP time 75.530

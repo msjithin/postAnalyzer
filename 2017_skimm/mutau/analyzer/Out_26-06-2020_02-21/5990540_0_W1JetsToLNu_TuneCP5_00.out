@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108959
+Running over 108959 events.
+Finished entry 0/108958
+Finished entry 5000/108958
+Finished entry 10000/108958
+Finished entry 15000/108958
+Finished entry 20000/108958
+Finished entry 25000/108958
+Finished entry 30000/108958
+Finished entry 35000/108958
+Finished entry 40000/108958
+Finished entry 45000/108958
+Finished entry 50000/108958
+Finished entry 55000/108958
+Finished entry 60000/108958
+Finished entry 65000/108958
+Finished entry 70000/108958
+Finished entry 75000/108958
+Finished entry 80000/108958
+Finished entry 85000/108958
+Finished entry 90000/108958
+Finished entry 95000/108958
+Finished entry 100000/108958
+Finished entry 105000/108958
+Finished entry 108958/108958
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108959.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108959.000000   % change= 0.000000
+   METFiltersPassed 104991.882936   % change= 3.640926
+    SingleTrgPassed 82669.307510   % change= 21.261239
+     GoodMuonPassed 71681.012391   % change= 13.291868
+      GoodTauPassed 2188.275961   % change= 96.947203
+         opp charge 1881.237328   % change= 14.031075
+         after sf 1 0.000000   % change= 14.031075
+         after sf 2 0.000000   % change= 14.031075
+         after sf 3 0.000000   % change= 14.031075
+         after sf 4 1563.879863   % change= 14.031075
+ PassedThirdLepVeto 1562.827072   % change= 16.925576
+     PassedBjetVeto 1551.697273   % change= 0.712158
+       DeltaRPassed 1549.338191   % change= 0.152032
+      Total change :98.578054
+*******************************************
+*******************************************
+Number of events inspected: 108959
+Number of events inspected (minus negative gen. weights): 108959.000000
+ Outpt written to W1JetsToLNu_TuneCP5_00.root
+Real time 0:00:43, CP time 28.910

@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:132767
+Running over 132767 events.
+Finished entry 0/132766
+Finished entry 6000/132766
+Finished entry 12000/132766
+Finished entry 18000/132766
+Finished entry 24000/132766
+Finished entry 30000/132766
+Finished entry 36000/132766
+Finished entry 42000/132766
+Finished entry 48000/132766
+Finished entry 54000/132766
+Finished entry 60000/132766
+Finished entry 66000/132766
+Finished entry 72000/132766
+Finished entry 78000/132766
+Finished entry 84000/132766
+Finished entry 90000/132766
+Finished entry 96000/132766
+Finished entry 102000/132766
+Finished entry 108000/132766
+Finished entry 114000/132766
+Finished entry 120000/132766
+Finished entry 126000/132766
+Finished entry 132000/132766
+Finished entry 132766/132766
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 132767.000000
+   Passing smikking 0.000000
+Inspected genWeightd 132749.000000   % change= 0.013558
+   METFiltersPassed 40335.313165   % change= 69.615354
+    SingleTrgPassed 25744.082862   % change= 36.174828
+     GoodMuonPassed 21095.471596   % change= 18.057009
+      GoodTauPassed 7734.026983   % change= 63.337975
+         opp charge 7674.726006   % change= 0.766754
+         after sf 1 0.000000   % change= 0.766754
+         after sf 2 0.000000   % change= 0.766754
+         after sf 3 0.000000   % change= 0.766754
+         after sf 4 6390.769120   % change= 0.766754
+ PassedThirdLepVeto 6136.501296   % change= 20.042731
+     PassedBjetVeto 5970.125899   % change= 2.711242
+       DeltaRPassed 5957.962835   % change= 0.203732
+      Total change :95.512467
+*******************************************
+*******************************************
+Number of events inspected: 132767
+Number of events inspected (minus negative gen. weights): 132749.000000
+ Outpt written to DYJetsToLL_M-50_TuneCP5_v1_03.root
+Real time 0:01:08, CP time 48.880

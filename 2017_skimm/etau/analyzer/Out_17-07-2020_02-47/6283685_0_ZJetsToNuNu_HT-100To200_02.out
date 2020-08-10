@@ -1,0 +1,67 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:3768
+Running over 3768 events.
+Finished entry 0/3767
+Finished entry 100/3767
+Finished entry 200/3767
+Finished entry 300/3767
+Finished entry 400/3767
+Finished entry 500/3767
+Finished entry 600/3767
+Finished entry 700/3767
+Finished entry 800/3767
+Finished entry 900/3767
+Finished entry 1000/3767
+Finished entry 1100/3767
+Finished entry 1200/3767
+Finished entry 1300/3767
+Finished entry 1400/3767
+Finished entry 1500/3767
+Finished entry 1600/3767
+Finished entry 1700/3767
+Finished entry 1800/3767
+Finished entry 1900/3767
+Finished entry 2000/3767
+Finished entry 2100/3767
+Finished entry 2200/3767
+Finished entry 2300/3767
+Finished entry 2400/3767
+Finished entry 2500/3767
+Finished entry 2600/3767
+Finished entry 2700/3767
+Finished entry 2800/3767
+Finished entry 2900/3767
+Finished entry 3000/3767
+Finished entry 3100/3767
+Finished entry 3200/3767
+Finished entry 3300/3767
+Finished entry 3400/3767
+Finished entry 3500/3767
+Finished entry 3600/3767
+Finished entry 3700/3767
+Finished entry 3767/3767
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 3768.000000
+   Passing smikking 0.000000
+Inspected genWeightd 3768.000000   % change= 0.000000
+   METFiltersPassed 3538.509473   % change= 6.090513
+    SingleTrgPassed 36.885178   % change= 98.957607
+     GoodMuonPassed 11.393192   % change= 69.111735
+      GoodTauPassed 1.275047   % change= 88.808692
+         opp charge 0.000000   % change= 100.000000
+ PassedThirdLepVeto 0.000000   % change= -nan
+     PassedBjetVeto 0.000000   % change= -nan
+       DeltaRPassed 0.000000   % change= -nan
+      Total change :100.000000
+*******************************************
+*******************************************
+Number of events inspected: 3768
+Number of events inspected (minus negative gen. weights): 3768.000000
+ Outpt written to ZJetsToNuNu_HT-100To200_02.root
+Real time 0:00:04, CP time 2.950

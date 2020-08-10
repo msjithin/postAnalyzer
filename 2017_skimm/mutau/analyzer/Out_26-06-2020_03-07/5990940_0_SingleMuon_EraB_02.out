@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:1356486
+Running over 1356486 events.
+Finished entry 0/1356485
+Finished entry 60000/1356485
+Finished entry 120000/1356485
+Finished entry 180000/1356485
+Finished entry 240000/1356485
+Finished entry 300000/1356485
+Finished entry 360000/1356485
+Finished entry 420000/1356485
+Finished entry 480000/1356485
+Finished entry 540000/1356485
+Finished entry 600000/1356485
+Finished entry 660000/1356485
+Finished entry 720000/1356485
+Finished entry 780000/1356485
+Finished entry 840000/1356485
+Finished entry 900000/1356485
+Finished entry 960000/1356485
+Finished entry 1020000/1356485
+Finished entry 1080000/1356485
+Finished entry 1140000/1356485
+Finished entry 1200000/1356485
+Finished entry 1260000/1356485
+Finished entry 1320000/1356485
+Finished entry 1356485/1356485
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1356486.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1356486.000000   % change= 0.000000
+   METFiltersPassed 1344380.000000   % change= 0.892453
+    SingleTrgPassed 665281.000000   % change= 50.513917
+     GoodMuonPassed 469241.000000   % change= 29.467248
+      GoodTauPassed 19134.000000   % change= 95.922351
+         opp charge 15683.000000   % change= 18.035957
+         after sf 1 0.000000   % change= 18.035957
+         after sf 2 0.000000   % change= 18.035957
+         after sf 3 0.000000   % change= 18.035957
+         after sf 4 15683.000000   % change= 18.035957
+ PassedThirdLepVeto 15570.000000   % change= 0.720525
+     PassedBjetVeto 14645.000000   % change= 5.940912
+       DeltaRPassed 14615.000000   % change= 0.204848
+      Total change :98.922584
+*******************************************
+*******************************************
+Number of events inspected: 1356486
+Number of events inspected (minus negative gen. weights): 1356486.000000
+ Outpt written to SingleMuon_EraB_02.root
+Real time 0:03:48, CP time 184.550

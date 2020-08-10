@@ -1,0 +1,71 @@
+********** for data *********
+All files added.
+Initializing chain.
+Output 22_SingleMuon_21-05-2020_16-08.root
+Coming in: 
+nentries:37875114
+Running over 37875114 events.
+Finished entry 0/37875113
+Finished entry 1000000/37875113
+Finished entry 2000000/37875113
+Finished entry 3000000/37875113
+Finished entry 4000000/37875113
+Finished entry 5000000/37875113
+Finished entry 6000000/37875113
+Finished entry 7000000/37875113
+Finished entry 8000000/37875113
+Finished entry 9000000/37875113
+Finished entry 10000000/37875113
+Finished entry 11000000/37875113
+Finished entry 12000000/37875113
+Finished entry 13000000/37875113
+Finished entry 14000000/37875113
+Finished entry 15000000/37875113
+Finished entry 16000000/37875113
+Finished entry 17000000/37875113
+Finished entry 18000000/37875113
+Finished entry 19000000/37875113
+Finished entry 20000000/37875113
+Finished entry 21000000/37875113
+Finished entry 22000000/37875113
+Finished entry 23000000/37875113
+Finished entry 24000000/37875113
+Finished entry 25000000/37875113
+Finished entry 26000000/37875113
+Finished entry 27000000/37875113
+Finished entry 28000000/37875113
+Finished entry 29000000/37875113
+Finished entry 30000000/37875113
+Finished entry 31000000/37875113
+Finished entry 32000000/37875113
+Finished entry 33000000/37875113
+Finished entry 34000000/37875113
+Finished entry 35000000/37875113
+Finished entry 36000000/37875113
+Finished entry 37000000/37875113
+Finished entry 37875113/37875113
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 37875114.000000
+Inspected genWeightd 0.000000
+   METFiltersPassed 37827501.000000
+    SingleTrgPassed 26402446.000000
+     GoodMuonPassed 19028458.000000
+ Good Muon 2 Passed 1289486.000000
+         opp charge 1289131.000000
+       DeltaRPassed 1277649.000000
+     PassedBjetVeto 1247736.000000
+PassedVisibleMasscut 1137084.000000
+     nGoodTauPassed 82034.000000
+    nTightTauPassed 875.000000
+   nVLooseTauPassed 4627.000000
+*******************************************
+*******************************************
+Number of events inspected: 0
+Number of events inspected (minus negative gen. weights): 0.000000
+ (net weight with SF): 1.000000
+*******************************************
+  Real Time = 6474.000,    Cpu Time = 3988.350
+***************************
+Output written to  22_SingleMuon_21-05-2020_16-08.root

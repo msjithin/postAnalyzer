@@ -1,0 +1,57 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1192903
+Running over 1192903 events.
+Finished entry 0/1192902
+Finished entry 50000/1192902
+Finished entry 100000/1192902
+Finished entry 150000/1192902
+Finished entry 200000/1192902
+Finished entry 250000/1192902
+Finished entry 300000/1192902
+Finished entry 350000/1192902
+Finished entry 400000/1192902
+Finished entry 450000/1192902
+Finished entry 500000/1192902
+Finished entry 550000/1192902
+Finished entry 600000/1192902
+Finished entry 650000/1192902
+Finished entry 700000/1192902
+Finished entry 750000/1192902
+Finished entry 800000/1192902
+Finished entry 850000/1192902
+Finished entry 900000/1192902
+Finished entry 950000/1192902
+Finished entry 1000000/1192902
+Finished entry 1050000/1192902
+Finished entry 1100000/1192902
+Finished entry 1150000/1192902
+Finished entry 1192902/1192902
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1192903.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1192903.000000   % change= 0.000000
+   METFiltersPassed 1189232.000000   % change= 0.307737
+    SingleTrgPassed 1047186.000000   % change= 11.944347
+     GoodMuonPassed 677085.000000   % change= 35.342432
+      GoodTauPassed 16133.000000   % change= 97.617286
+         opp charge 13009.000000   % change= 19.364036
+         after sf 1 13009.000000   % change= 19.364036
+         after sf 2 0.000000   % change= 19.364036
+         after sf 3 0.000000   % change= 19.364036
+         after sf 4 13436.000000   % change= 19.364036
+ PassedThirdLepVeto 12953.000000   % change= 0.430471
+     PassedBjetVeto 11826.000000   % change= 8.700687
+       DeltaRPassed 11784.000000   % change= 0.355150
+      Total change :99.012158
+*******************************************
+*******************************************
+Number of events inspected: 1192903
+Number of events inspected (minus negative gen. weights): 1192903.000000
+ Outpt written to SingleElectron_EraD_01.root
+Real time 0:04:03, CP time 199.150

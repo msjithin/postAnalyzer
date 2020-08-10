@@ -1,0 +1,57 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:179829
+Running over 179829 events.
+Finished entry 0/179828
+Finished entry 8000/179828
+Finished entry 16000/179828
+Finished entry 24000/179828
+Finished entry 32000/179828
+Finished entry 40000/179828
+Finished entry 48000/179828
+Finished entry 56000/179828
+Finished entry 64000/179828
+Finished entry 72000/179828
+Finished entry 80000/179828
+Finished entry 88000/179828
+Finished entry 96000/179828
+Finished entry 104000/179828
+Finished entry 112000/179828
+Finished entry 120000/179828
+Finished entry 128000/179828
+Finished entry 136000/179828
+Finished entry 144000/179828
+Finished entry 152000/179828
+Finished entry 160000/179828
+Finished entry 168000/179828
+Finished entry 176000/179828
+Finished entry 179828/179828
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 179829.000000
+   Passing smikking 0.000000
+Inspected genWeightd 179827.000000   % change= 0.001112
+   METFiltersPassed 171497.760547   % change= 4.631807
+    SingleTrgPassed 121530.420351   % change= 29.135856
+     GoodMuonPassed 107583.663681   % change= 11.475939
+      GoodTauPassed 2401.327199   % change= 97.767944
+         opp charge 1810.661259   % change= 24.597478
+         after sf 1 1810.661259   % change= 24.597478
+         after sf 2 0.000000   % change= 24.597478
+         after sf 3 0.000000   % change= 24.597478
+         after sf 4 1711.828676   % change= 24.597478
+ PassedThirdLepVeto 1474.046191   % change= 18.590726
+     PassedBjetVeto 1415.628021   % change= 3.963117
+       DeltaRPassed 1412.851068   % change= 0.196164
+      Total change :99.214336
+*******************************************
+*******************************************
+Number of events inspected: 179829
+Number of events inspected (minus negative gen. weights): 179827.000000
+ Outpt written to DY1JetsToLL_M-50_TuneCP5_04.root
+Real time 0:01:09, CP time 52.570

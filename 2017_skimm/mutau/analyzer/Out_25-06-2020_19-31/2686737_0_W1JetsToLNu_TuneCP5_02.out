@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108688
+Running over 108688 events.
+Finished entry 0/108687
+Finished entry 5000/108687
+Finished entry 10000/108687
+Finished entry 15000/108687
+Finished entry 20000/108687
+Finished entry 25000/108687
+Finished entry 30000/108687
+Finished entry 35000/108687
+Finished entry 40000/108687
+Finished entry 45000/108687
+Finished entry 50000/108687
+Finished entry 55000/108687
+Finished entry 60000/108687
+Finished entry 65000/108687
+Finished entry 70000/108687
+Finished entry 75000/108687
+Finished entry 80000/108687
+Finished entry 85000/108687
+Finished entry 90000/108687
+Finished entry 95000/108687
+Finished entry 100000/108687
+Finished entry 105000/108687
+Finished entry 108687/108687
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108688.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108684.000000   % change= 0.003680
+   METFiltersPassed 104405.726872   % change= 3.936433
+    SingleTrgPassed 82499.632804   % change= 20.981698
+     GoodMuonPassed 71459.117226   % change= 13.382503
+      GoodTauPassed 2166.188728   % change= 96.968632
+         opp charge 1880.417595   % change= 13.192347
+         after sf 1 0.000000   % change= 13.192347
+         after sf 2 0.000000   % change= 13.192347
+         after sf 3 0.000000   % change= 13.192347
+         after sf 4 1549.777476   % change= 13.192347
+ PassedThirdLepVeto 1547.321858   % change= 17.713924
+     PassedBjetVeto 1541.794392   % change= 0.357228
+       DeltaRPassed 1539.070109   % change= 0.176696
+      Total change :98.583956
+*******************************************
+*******************************************
+Number of events inspected: 108688
+Number of events inspected (minus negative gen. weights): 108684.000000
+ Outpt written to W1JetsToLNu_TuneCP5_02.root
+Real time 0:00:37, CP time 23.120

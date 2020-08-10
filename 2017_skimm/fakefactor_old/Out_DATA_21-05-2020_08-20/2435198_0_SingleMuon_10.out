@@ -1,0 +1,112 @@
+********** for data *********
+All files added.
+Initializing chain.
+Output 10_SingleMuon_21-05-2020_08-20.root
+Coming in: 
+nentries:79876691
+Running over 79876691 events.
+Finished entry 0/79876690
+Finished entry 1000000/79876690
+Finished entry 2000000/79876690
+Finished entry 3000000/79876690
+Finished entry 4000000/79876690
+Finished entry 5000000/79876690
+Finished entry 6000000/79876690
+Finished entry 7000000/79876690
+Finished entry 8000000/79876690
+Finished entry 9000000/79876690
+Finished entry 10000000/79876690
+Finished entry 11000000/79876690
+Finished entry 13000000/79876690
+Finished entry 14000000/79876690
+Finished entry 15000000/79876690
+Finished entry 16000000/79876690
+Finished entry 17000000/79876690
+Finished entry 18000000/79876690
+Finished entry 19000000/79876690
+Finished entry 20000000/79876690
+Finished entry 21000000/79876690
+Finished entry 22000000/79876690
+Finished entry 23000000/79876690
+Finished entry 24000000/79876690
+Finished entry 25000000/79876690
+Finished entry 26000000/79876690
+Finished entry 27000000/79876690
+Finished entry 28000000/79876690
+Finished entry 29000000/79876690
+Finished entry 30000000/79876690
+Finished entry 31000000/79876690
+Finished entry 32000000/79876690
+Finished entry 33000000/79876690
+Finished entry 34000000/79876690
+Finished entry 35000000/79876690
+Finished entry 36000000/79876690
+Finished entry 37000000/79876690
+Finished entry 38000000/79876690
+Finished entry 39000000/79876690
+Finished entry 40000000/79876690
+Finished entry 41000000/79876690
+Finished entry 42000000/79876690
+Finished entry 43000000/79876690
+Finished entry 44000000/79876690
+Finished entry 45000000/79876690
+Finished entry 46000000/79876690
+Finished entry 47000000/79876690
+Finished entry 48000000/79876690
+Finished entry 49000000/79876690
+Finished entry 50000000/79876690
+Finished entry 51000000/79876690
+Finished entry 52000000/79876690
+Finished entry 53000000/79876690
+Finished entry 54000000/79876690
+Finished entry 55000000/79876690
+Finished entry 56000000/79876690
+Finished entry 57000000/79876690
+Finished entry 58000000/79876690
+Finished entry 59000000/79876690
+Finished entry 60000000/79876690
+Finished entry 61000000/79876690
+Finished entry 62000000/79876690
+Finished entry 63000000/79876690
+Finished entry 64000000/79876690
+Finished entry 65000000/79876690
+Finished entry 66000000/79876690
+Finished entry 67000000/79876690
+Finished entry 68000000/79876690
+Finished entry 69000000/79876690
+Finished entry 70000000/79876690
+Finished entry 71000000/79876690
+Finished entry 72000000/79876690
+Finished entry 73000000/79876690
+Finished entry 74000000/79876690
+Finished entry 75000000/79876690
+Finished entry 76000000/79876690
+Finished entry 77000000/79876690
+Finished entry 78000000/79876690
+Finished entry 79000000/79876690
+Finished entry 79876690/79876690
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 79876691.000000
+Inspected genWeightd 0.000000
+   METFiltersPassed 79786755.000000
+    SingleTrgPassed 29631493.000000
+     GoodMuonPassed 21387578.000000
+ Good Muon 2 Passed 1480669.000000
+         opp charge 1480212.000000
+       DeltaRPassed 1466649.000000
+     PassedBjetVeto 1430331.000000
+PassedVisibleMasscut 1302533.000000
+     nGoodTauPassed 92878.000000
+    nTightTauPassed 0.000000
+   nVLooseTauPassed 0.000000
+*******************************************
+*******************************************
+Number of events inspected: 0
+Number of events inspected (minus negative gen. weights): 0.000000
+ (net weight with SF): 1.000000
+*******************************************
+  Real Time = 11685.493,    Cpu Time = 8624.780
+***************************
+Output written to  10_SingleMuon_21-05-2020_08-20.root

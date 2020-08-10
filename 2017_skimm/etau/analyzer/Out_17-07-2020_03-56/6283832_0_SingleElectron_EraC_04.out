@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1270007
+Running over 1270007 events.
+Finished entry 0/1270006
+Finished entry 60000/1270006
+Finished entry 120000/1270006
+Finished entry 180000/1270006
+Finished entry 240000/1270006
+Finished entry 300000/1270006
+Finished entry 360000/1270006
+Finished entry 420000/1270006
+Finished entry 480000/1270006
+Finished entry 540000/1270006
+Finished entry 600000/1270006
+Finished entry 660000/1270006
+Finished entry 720000/1270006
+Finished entry 780000/1270006
+Finished entry 840000/1270006
+Finished entry 900000/1270006
+Finished entry 960000/1270006
+Finished entry 1020000/1270006
+Finished entry 1080000/1270006
+Finished entry 1140000/1270006
+Finished entry 1200000/1270006
+Finished entry 1260000/1270006
+Finished entry 1270006/1270006
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1270007.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1270007.000000   % change= 0.000000
+   METFiltersPassed 1266103.000000   % change= 0.307400
+    SingleTrgPassed 1112564.000000   % change= 12.126896
+     GoodMuonPassed 662064.000000   % change= 40.492053
+      GoodTauPassed 15523.000000   % change= 97.655363
+         opp charge 12383.000000   % change= 20.228049
+         after sf 1 12383.000000   % change= 20.228049
+         after sf 2 0.000000   % change= 20.228049
+         after sf 3 0.000000   % change= 20.228049
+         after sf 4 12729.000000   % change= 20.228049
+ PassedThirdLepVeto 12341.000000   % change= 0.339175
+     PassedBjetVeto 11264.000000   % change= 8.727008
+       DeltaRPassed 11231.000000   % change= 0.292969
+      Total change :99.115674
+*******************************************
+*******************************************
+Number of events inspected: 1270007
+Number of events inspected (minus negative gen. weights): 1270007.000000
+ Outpt written to SingleElectron_EraC_04.root
+Real time 0:05:46, CP time 306.770

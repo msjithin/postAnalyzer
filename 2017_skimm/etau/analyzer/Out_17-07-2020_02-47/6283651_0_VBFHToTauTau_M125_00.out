@@ -1,0 +1,59 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:296149
+Running over 296149 events.
+Finished entry 0/296148
+Finished entry 10000/296148
+Finished entry 20000/296148
+Finished entry 30000/296148
+Finished entry 40000/296148
+Finished entry 50000/296148
+Finished entry 60000/296148
+Finished entry 70000/296148
+Finished entry 80000/296148
+Finished entry 90000/296148
+Finished entry 100000/296148
+Finished entry 110000/296148
+Finished entry 120000/296148
+Finished entry 130000/296148
+Finished entry 140000/296148
+Finished entry 150000/296148
+Finished entry 160000/296148
+Finished entry 170000/296148
+Finished entry 180000/296148
+Finished entry 190000/296148
+Finished entry 200000/296148
+Finished entry 210000/296148
+Finished entry 220000/296148
+Finished entry 230000/296148
+Finished entry 240000/296148
+Finished entry 250000/296148
+Finished entry 260000/296148
+Finished entry 270000/296148
+Finished entry 280000/296148
+Finished entry 290000/296148
+Finished entry 296148/296148
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 296149.000000
+   Passing smikking 0.000000
+Inspected genWeightd 295757.000000   % change= 0.132366
+   METFiltersPassed 294955.325266   % change= 0.271059
+    SingleTrgPassed 102203.703024   % change= 65.349429
+     GoodMuonPassed 86353.959259   % change= 15.507994
+      GoodTauPassed 30518.582725   % change= 64.658734
+         opp charge 30061.803023   % change= 1.496726
+ PassedThirdLepVeto 4.125161   % change= 99.986278
+     PassedBjetVeto 4.125161   % change= 0.000000
+       DeltaRPassed 3.132371   % change= 24.066700
+      Total change :99.998942
+*******************************************
+*******************************************
+Number of events inspected: 296149
+Number of events inspected (minus negative gen. weights): 295757.000000
+ Outpt written to VBFHToTauTau_M125_00.root
+Real time 0:02:34, CP time 114.050

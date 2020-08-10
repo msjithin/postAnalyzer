@@ -1,0 +1,20 @@
+000 (3866238.000.000) 04/29 07:38:10 Job submitted from host: <144.92.180.29:9618?addrs=144.92.180.29-9618+[2607-f388-101c-1000--369]-9618&noUDP&sock=1964097_c0ff_3>
+...
+001 (3866238.000.000) 04/29 08:06:43 Job executing on host: <128.104.227.11:9618?addrs=128.104.227.11-9618+[2607-f388-101c-1000--629]-9618&noUDP&sock=2879_5540_3>
+...
+006 (3866238.000.000) 04/29 08:06:51 Image size of job updated: 172516
+	53  -  MemoryUsage of job (MB)
+	53420  -  ResidentSetSize of job (KB)
+...
+007 (3866238.000.000) 05/01 07:56:45 Shadow exception!
+	Error from slot1_11@g31n02.hep.wisc.edu: CMS user job ran for more than 48 hours
+	0  -  Run Bytes Sent By Job
+	218184  -  Run Bytes Received By Job
+...
+012 (3866238.000.000) 05/01 07:56:45 Job was held.
+	Error from slot1_11@g31n02.hep.wisc.edu: CMS user job ran for more than 48 hours
+	Code 21 Subcode 0
+...
+009 (3866238.000.000) 05/01 17:17:44 Job was aborted by the user.
+	via condor_rm (by user ms)
+...

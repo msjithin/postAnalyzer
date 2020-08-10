@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108922
+Running over 108922 events.
+Finished entry 0/108921
+Finished entry 5000/108921
+Finished entry 10000/108921
+Finished entry 15000/108921
+Finished entry 20000/108921
+Finished entry 25000/108921
+Finished entry 30000/108921
+Finished entry 35000/108921
+Finished entry 40000/108921
+Finished entry 45000/108921
+Finished entry 50000/108921
+Finished entry 55000/108921
+Finished entry 60000/108921
+Finished entry 65000/108921
+Finished entry 70000/108921
+Finished entry 75000/108921
+Finished entry 80000/108921
+Finished entry 85000/108921
+Finished entry 90000/108921
+Finished entry 95000/108921
+Finished entry 100000/108921
+Finished entry 105000/108921
+Finished entry 108921/108921
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108922.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108922.000000   % change= 0.000000
+   METFiltersPassed 104674.770087   % change= 3.899332
+    SingleTrgPassed 82857.794015   % change= 20.842631
+     GoodMuonPassed 71728.229227   % change= 13.432128
+      GoodTauPassed 2119.814317   % change= 97.044658
+         opp charge 1852.010344   % change= 12.633369
+         after sf 1 0.000000   % change= 12.633369
+         after sf 2 0.000000   % change= 12.633369
+         after sf 3 0.000000   % change= 12.633369
+         after sf 4 1543.021789   % change= 12.633369
+ PassedThirdLepVeto 1539.446870   % change= 16.876983
+     PassedBjetVeto 1523.536762   % change= 1.033495
+       DeltaRPassed 1522.290949   % change= 0.081771
+      Total change :98.602403
+*******************************************
+*******************************************
+Number of events inspected: 108922
+Number of events inspected (minus negative gen. weights): 108922.000000
+ Outpt written to W1JetsToLNu_TuneCP5_04.root
+Real time 0:00:37, CP time 25.190

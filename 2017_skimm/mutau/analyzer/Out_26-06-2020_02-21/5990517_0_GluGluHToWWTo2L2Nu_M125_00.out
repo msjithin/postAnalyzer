@@ -1,0 +1,61 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:28721
+Running over 28721 events.
+Finished entry 0/28720
+Finished entry 1000/28720
+Finished entry 2000/28720
+Finished entry 3000/28720
+Finished entry 4000/28720
+Finished entry 5000/28720
+Finished entry 6000/28720
+Finished entry 7000/28720
+Finished entry 8000/28720
+Finished entry 9000/28720
+Finished entry 10000/28720
+Finished entry 11000/28720
+Finished entry 12000/28720
+Finished entry 13000/28720
+Finished entry 14000/28720
+Finished entry 15000/28720
+Finished entry 16000/28720
+Finished entry 17000/28720
+Finished entry 18000/28720
+Finished entry 19000/28720
+Finished entry 20000/28720
+Finished entry 21000/28720
+Finished entry 22000/28720
+Finished entry 23000/28720
+Finished entry 24000/28720
+Finished entry 25000/28720
+Finished entry 26000/28720
+Finished entry 27000/28720
+Finished entry 28000/28720
+Finished entry 28720/28720
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 28721.000000
+   Passing smikking 0.000000
+Inspected genWeightd 28601.000000   % change= 0.417813
+   METFiltersPassed 27923.227148   % change= 2.369752
+    SingleTrgPassed 20216.691098   % change= 27.599016
+     GoodMuonPassed 17111.702179   % change= 15.358542
+      GoodTauPassed 2774.295225   % change= 83.787146
+         opp charge 2675.017799   % change= 3.578474
+         after sf 1 0.000000   % change= 3.578474
+         after sf 2 0.000000   % change= 3.578474
+         after sf 3 0.000000   % change= 3.578474
+         after sf 4 2246.772895   % change= 3.578474
+ PassedThirdLepVeto 2178.125351   % change= 18.575295
+     PassedBjetVeto 2129.942738   % change= 2.212114
+       DeltaRPassed 1959.177067   % change= 8.017383
+      Total change :93.178590
+*******************************************
+*******************************************
+Number of events inspected: 28721
+Number of events inspected (minus negative gen. weights): 28601.000000
+ Outpt written to GluGluHToWWTo2L2Nu_M125_00.root
+Real time 0:00:16, CP time 13.460

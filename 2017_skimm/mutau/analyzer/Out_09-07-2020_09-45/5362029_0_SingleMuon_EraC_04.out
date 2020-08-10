@@ -1,0 +1,71 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:397089
+Running over 397089 events.
+Finished entry 0/397088
+Finished entry 10000/397088
+Finished entry 20000/397088
+Finished entry 30000/397088
+Finished entry 40000/397088
+Finished entry 50000/397088
+Finished entry 60000/397088
+Finished entry 70000/397088
+Finished entry 80000/397088
+Finished entry 90000/397088
+Finished entry 100000/397088
+Finished entry 110000/397088
+Finished entry 120000/397088
+Finished entry 130000/397088
+Finished entry 140000/397088
+Finished entry 150000/397088
+Finished entry 160000/397088
+Finished entry 170000/397088
+Finished entry 180000/397088
+Finished entry 190000/397088
+Finished entry 200000/397088
+Finished entry 210000/397088
+Finished entry 220000/397088
+Finished entry 230000/397088
+Finished entry 240000/397088
+Finished entry 250000/397088
+Finished entry 260000/397088
+Finished entry 270000/397088
+Finished entry 290000/397088
+Finished entry 300000/397088
+Finished entry 310000/397088
+Finished entry 320000/397088
+Finished entry 330000/397088
+Finished entry 340000/397088
+Finished entry 350000/397088
+Finished entry 360000/397088
+Finished entry 370000/397088
+Finished entry 380000/397088
+Finished entry 390000/397088
+Finished entry 397088/397088
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 397089.000000
+   Passing smikking 0.000000
+Inspected genWeightd 397089.000000   % change= 0.000000
+   METFiltersPassed 394218.000000   % change= 0.723012
+    SingleTrgPassed 322098.000000   % change= 18.294446
+     GoodMuonPassed 228452.000000   % change= 29.073760
+      GoodTauPassed 9533.000000   % change= 95.827132
+         opp charge 7939.000000   % change= 16.720864
+         after sf 1 0.000000   % change= 16.720864
+         after sf 2 0.000000   % change= 16.720864
+         after sf 3 0.000000   % change= 16.720864
+         after sf 4 7939.000000   % change= 16.720864
+ PassedThirdLepVeto 7880.000000   % change= 0.743167
+     PassedBjetVeto 7362.000000   % change= 6.573604
+       DeltaRPassed 7340.000000   % change= 0.298832
+      Total change :98.151548
+*******************************************
+*******************************************
+Number of events inspected: 397089
+Number of events inspected (minus negative gen. weights): 397089.000000
+ Outpt written to SingleMuon_EraC_04.root
+Real time 0:01:08, CP time 52.130

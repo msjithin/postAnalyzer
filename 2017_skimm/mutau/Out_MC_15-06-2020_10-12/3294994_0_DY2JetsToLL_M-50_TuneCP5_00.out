@@ -1,0 +1,31 @@
+********** for MC *********
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:6093481
+Running over 6093481 events.
+Finished entry 0/6093480
+Finished entry 300000/6093480
+Finished entry 600000/6093480
+Finished entry 900000/6093480
+Finished entry 1200000/6093480
+Finished entry 1500000/6093480
+Finished entry 1800000/6093480
+Finished entry 2100000/6093480
+Finished entry 2400000/6093480
+Finished entry 2700000/6093480
+Finished entry 3000000/6093480
+Finished entry 3300000/6093480
+Finished entry 3600000/6093480
+Finished entry 3900000/6093480
+Finished entry 4200000/6093480
+Finished entry 4500000/6093480
+Finished entry 4800000/6093480
+Finished entry 5100000/6093480
+Finished entry 5400000/6093480
+Finished entry 5700000/6093480
+Finished entry 6000000/6093480
+nPassedSkimmed = 210353
+Real time 2:03:44, CP time 2264.090

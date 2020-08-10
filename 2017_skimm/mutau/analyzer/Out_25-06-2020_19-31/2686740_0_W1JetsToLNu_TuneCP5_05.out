@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108793
+Running over 108793 events.
+Finished entry 0/108792
+Finished entry 5000/108792
+Finished entry 10000/108792
+Finished entry 15000/108792
+Finished entry 20000/108792
+Finished entry 25000/108792
+Finished entry 30000/108792
+Finished entry 35000/108792
+Finished entry 40000/108792
+Finished entry 45000/108792
+Finished entry 50000/108792
+Finished entry 55000/108792
+Finished entry 60000/108792
+Finished entry 65000/108792
+Finished entry 70000/108792
+Finished entry 75000/108792
+Finished entry 80000/108792
+Finished entry 85000/108792
+Finished entry 90000/108792
+Finished entry 95000/108792
+Finished entry 100000/108792
+Finished entry 105000/108792
+Finished entry 108792/108792
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108793.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108791.000000   % change= 0.001838
+   METFiltersPassed 104603.320728   % change= 3.849288
+    SingleTrgPassed 82662.841617   % change= 20.974936
+     GoodMuonPassed 71753.544168   % change= 13.197341
+      GoodTauPassed 2169.583929   % change= 96.976339
+         opp charge 1835.935654   % change= 15.378445
+         after sf 1 0.000000   % change= 15.378445
+         after sf 2 0.000000   % change= 15.378445
+         after sf 3 0.000000   % change= 15.378445
+         after sf 4 1521.486075   % change= 15.378445
+ PassedThirdLepVeto 1518.661466   % change= 17.281335
+     PassedBjetVeto 1507.359245   % change= 0.744223
+       DeltaRPassed 1504.389498   % change= 0.197016
+      Total change :98.617200
+*******************************************
+*******************************************
+Number of events inspected: 108793
+Number of events inspected (minus negative gen. weights): 108791.000000
+ Outpt written to W1JetsToLNu_TuneCP5_05.root
+Real time 0:00:42, CP time 28.090

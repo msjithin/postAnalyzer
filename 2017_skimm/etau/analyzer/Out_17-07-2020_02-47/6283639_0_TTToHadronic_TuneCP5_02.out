@@ -1,0 +1,49 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:82210
+Running over 82210 events.
+Finished entry 0/82209
+Finished entry 4000/82209
+Finished entry 8000/82209
+Finished entry 12000/82209
+Finished entry 16000/82209
+Finished entry 20000/82209
+Finished entry 24000/82209
+Finished entry 28000/82209
+Finished entry 32000/82209
+Finished entry 36000/82209
+Finished entry 40000/82209
+Finished entry 44000/82209
+Finished entry 48000/82209
+Finished entry 52000/82209
+Finished entry 56000/82209
+Finished entry 60000/82209
+Finished entry 64000/82209
+Finished entry 68000/82209
+Finished entry 72000/82209
+Finished entry 80000/82209
+Finished entry 82209/82209
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 82210.000000
+   Passing smikking 0.000000
+Inspected genWeightd 82210.000000   % change= 0.000000
+   METFiltersPassed 79011.643307   % change= 3.890472
+    SingleTrgPassed 989.057617   % change= 98.748213
+     GoodMuonPassed 359.519935   % change= 63.650254
+      GoodTauPassed 11.039493   % change= 96.929379
+         opp charge 4.141945   % change= 62.480659
+ PassedThirdLepVeto 0.000000   % change= 100.000000
+     PassedBjetVeto 0.000000   % change= -nan
+       DeltaRPassed 0.000000   % change= -nan
+      Total change :100.000000
+*******************************************
+*******************************************
+Number of events inspected: 82210
+Number of events inspected (minus negative gen. weights): 82210.000000
+ Outpt written to TTToHadronic_TuneCP5_02.root
+Real time 0:00:40, CP time 26.340

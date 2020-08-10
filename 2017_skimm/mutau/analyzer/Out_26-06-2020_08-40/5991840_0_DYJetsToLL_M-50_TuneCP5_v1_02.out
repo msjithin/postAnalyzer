@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:131316
+Running over 131316 events.
+Finished entry 0/131315
+Finished entry 6000/131315
+Finished entry 12000/131315
+Finished entry 18000/131315
+Finished entry 24000/131315
+Finished entry 30000/131315
+Finished entry 36000/131315
+Finished entry 42000/131315
+Finished entry 48000/131315
+Finished entry 54000/131315
+Finished entry 60000/131315
+Finished entry 66000/131315
+Finished entry 72000/131315
+Finished entry 78000/131315
+Finished entry 84000/131315
+Finished entry 90000/131315
+Finished entry 96000/131315
+Finished entry 102000/131315
+Finished entry 108000/131315
+Finished entry 114000/131315
+Finished entry 120000/131315
+Finished entry 126000/131315
+Finished entry 131315/131315
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 131316.000000
+   Passing smikking 0.000000
+Inspected genWeightd 131304.000000   % change= 0.009138
+   METFiltersPassed 39541.043592   % change= 69.885880
+    SingleTrgPassed 25134.809219   % change= 36.433622
+     GoodMuonPassed 20698.171384   % change= 17.651369
+      GoodTauPassed 7628.632238   % change= 63.143448
+         opp charge 7567.706019   % change= 0.798652
+         after sf 1 0.000000   % change= 0.798652
+         after sf 2 0.000000   % change= 0.798652
+         after sf 3 0.000000   % change= 0.798652
+         after sf 4 6213.972152   % change= 0.798652
+ PassedThirdLepVeto 5985.497332   % change= 20.907375
+     PassedBjetVeto 5806.535974   % change= 2.989916
+       DeltaRPassed 5796.001801   % change= 0.181419
+      Total change :95.586218
+*******************************************
+*******************************************
+Number of events inspected: 131316
+Number of events inspected (minus negative gen. weights): 131304.000000
+ Outpt written to DYJetsToLL_M-50_TuneCP5_v1_02.root
+Real time 0:01:19, CP time 37.440

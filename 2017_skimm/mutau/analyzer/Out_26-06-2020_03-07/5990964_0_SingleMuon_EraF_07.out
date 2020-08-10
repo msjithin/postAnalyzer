@@ -1,0 +1,53 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:1235423
+Running over 1235423 events.
+Finished entry 0/1235422
+Finished entry 60000/1235422
+Finished entry 120000/1235422
+Finished entry 180000/1235422
+Finished entry 240000/1235422
+Finished entry 300000/1235422
+Finished entry 360000/1235422
+Finished entry 420000/1235422
+Finished entry 480000/1235422
+Finished entry 540000/1235422
+Finished entry 600000/1235422
+Finished entry 660000/1235422
+Finished entry 720000/1235422
+Finished entry 780000/1235422
+Finished entry 840000/1235422
+Finished entry 900000/1235422
+Finished entry 960000/1235422
+Finished entry 1020000/1235422
+Finished entry 1080000/1235422
+Finished entry 1140000/1235422
+Finished entry 1200000/1235422
+Finished entry 1235422/1235422
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1235423.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1235423.000000   % change= 0.000000
+   METFiltersPassed 1224701.000000   % change= 0.867881
+    SingleTrgPassed 1034861.000000   % change= 15.500926
+     GoodMuonPassed 673967.000000   % change= 34.873669
+      GoodTauPassed 24161.000000   % change= 96.415106
+         opp charge 19027.000000   % change= 21.249120
+         after sf 1 0.000000   % change= 21.249120
+         after sf 2 0.000000   % change= 21.249120
+         after sf 3 0.000000   % change= 21.249120
+         after sf 4 19027.000000   % change= 21.249120
+ PassedThirdLepVeto 18882.000000   % change= 0.762075
+     PassedBjetVeto 17769.000000   % change= 5.894503
+       DeltaRPassed 17722.000000   % change= 0.264506
+      Total change :98.565512
+*******************************************
+*******************************************
+Number of events inspected: 1235423
+Number of events inspected (minus negative gen. weights): 1235423.000000
+ Outpt written to SingleMuon_EraF_07.root
+Real time 0:04:04, CP time 194.360

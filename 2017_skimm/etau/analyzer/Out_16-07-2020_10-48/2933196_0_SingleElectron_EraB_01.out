@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1298304
+Running over 1298304 events.
+Finished entry 0/1298303
+Finished entry 60000/1298303
+Finished entry 120000/1298303
+Finished entry 180000/1298303
+Finished entry 240000/1298303
+Finished entry 300000/1298303
+Finished entry 360000/1298303
+Finished entry 420000/1298303
+Finished entry 480000/1298303
+Finished entry 540000/1298303
+Finished entry 600000/1298303
+Finished entry 660000/1298303
+Finished entry 720000/1298303
+Finished entry 780000/1298303
+Finished entry 840000/1298303
+Finished entry 900000/1298303
+Finished entry 960000/1298303
+Finished entry 1020000/1298303
+Finished entry 1080000/1298303
+Finished entry 1140000/1298303
+Finished entry 1200000/1298303
+Finished entry 1260000/1298303
+Finished entry 1298303/1298303
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1298304.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1298304.000000   % change= 0.000000
+   METFiltersPassed 1293424.000000   % change= 0.375875
+    SingleTrgPassed 1273524.000000   % change= 1.538552
+     GoodMuonPassed 732256.000000   % change= 42.501594
+      GoodTauPassed 16943.000000   % change= 97.686192
+         opp charge 13434.000000   % change= 20.710618
+         after sf 1 13434.000000   % change= 20.710618
+         after sf 2 0.000000   % change= 20.710618
+         after sf 3 0.000000   % change= 20.710618
+         after sf 4 13845.000000   % change= 20.710618
+ PassedThirdLepVeto 13375.000000   % change= 0.439184
+     PassedBjetVeto 12244.000000   % change= 8.456075
+       DeltaRPassed 12195.000000   % change= 0.400196
+      Total change :99.060698
+*******************************************
+*******************************************
+Number of events inspected: 1298304
+Number of events inspected (minus negative gen. weights): 1298304.000000
+ Outpt written to SingleElectron_EraB_01.root
+Real time 0:04:39, CP time 221.430

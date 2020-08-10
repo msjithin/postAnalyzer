@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:689201
+Running over 689201 events.
+Finished entry 0/689200
+Finished entry 30000/689200
+Finished entry 60000/689200
+Finished entry 90000/689200
+Finished entry 120000/689200
+Finished entry 150000/689200
+Finished entry 180000/689200
+Finished entry 210000/689200
+Finished entry 240000/689200
+Finished entry 270000/689200
+Finished entry 300000/689200
+Finished entry 330000/689200
+Finished entry 360000/689200
+Finished entry 390000/689200
+Finished entry 420000/689200
+Finished entry 450000/689200
+Finished entry 480000/689200
+Finished entry 510000/689200
+Finished entry 540000/689200
+Finished entry 570000/689200
+Finished entry 600000/689200
+Finished entry 630000/689200
+Finished entry 660000/689200
+Finished entry 689200/689200
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 689201.000000
+   Passing smikking 0.000000
+Inspected genWeightd 689201.000000   % change= 0.000000
+   METFiltersPassed 684000.000000   % change= 0.754642
+    SingleTrgPassed 561956.000000   % change= 17.842690
+     GoodMuonPassed 394615.000000   % change= 29.778310
+      GoodTauPassed 14871.000000   % change= 96.231517
+         opp charge 11997.000000   % change= 19.326205
+         after sf 1 0.000000   % change= 19.326205
+         after sf 2 0.000000   % change= 19.326205
+         after sf 3 0.000000   % change= 19.326205
+         after sf 4 11997.000000   % change= 19.326205
+ PassedThirdLepVeto 11905.000000   % change= 0.766858
+     PassedBjetVeto 11116.000000   % change= 6.627467
+       DeltaRPassed 11081.000000   % change= 0.314861
+      Total change :98.392196
+*******************************************
+*******************************************
+Number of events inspected: 689201
+Number of events inspected (minus negative gen. weights): 689201.000000
+ Outpt written to SingleMuon_EraE_01.root
+Real time 0:01:58, CP time 89.910

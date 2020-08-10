@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:932933
+Running over 932933 events.
+Finished entry 0/932932
+Finished entry 40000/932932
+Finished entry 80000/932932
+Finished entry 120000/932932
+Finished entry 160000/932932
+Finished entry 200000/932932
+Finished entry 240000/932932
+Finished entry 280000/932932
+Finished entry 320000/932932
+Finished entry 360000/932932
+Finished entry 400000/932932
+Finished entry 440000/932932
+Finished entry 480000/932932
+Finished entry 520000/932932
+Finished entry 560000/932932
+Finished entry 600000/932932
+Finished entry 640000/932932
+Finished entry 680000/932932
+Finished entry 720000/932932
+Finished entry 760000/932932
+Finished entry 800000/932932
+Finished entry 840000/932932
+Finished entry 880000/932932
+Finished entry 920000/932932
+Finished entry 932932/932932
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 932933.000000
+   Passing smikking 0.000000
+Inspected genWeightd 932933.000000   % change= 0.000000
+   METFiltersPassed 925170.000000   % change= 0.832107
+    SingleTrgPassed 779405.000000   % change= 15.755483
+     GoodMuonPassed 515381.000000   % change= 33.875071
+      GoodTauPassed 19069.000000   % change= 96.300019
+         opp charge 15263.000000   % change= 19.959096
+         after sf 1 0.000000   % change= 19.959096
+         after sf 2 0.000000   % change= 19.959096
+         after sf 3 0.000000   % change= 19.959096
+         after sf 4 15263.000000   % change= 19.959096
+ PassedThirdLepVeto 15144.000000   % change= 0.779663
+     PassedBjetVeto 14255.000000   % change= 5.870312
+       DeltaRPassed 14221.000000   % change= 0.238513
+      Total change :98.475668
+*******************************************
+*******************************************
+Number of events inspected: 932933
+Number of events inspected (minus negative gen. weights): 932933.000000
+ Outpt written to SingleMuon_EraF_00.root
+Real time 0:03:27, CP time 155.400

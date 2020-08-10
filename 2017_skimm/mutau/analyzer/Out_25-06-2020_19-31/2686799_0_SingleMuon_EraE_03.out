@@ -1,0 +1,62 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:589162
+Running over 589162 events.
+Finished entry 0/589161
+Finished entry 20000/589161
+Finished entry 40000/589161
+Finished entry 60000/589161
+Finished entry 80000/589161
+Finished entry 100000/589161
+Finished entry 120000/589161
+Finished entry 140000/589161
+Finished entry 160000/589161
+Finished entry 180000/589161
+Finished entry 200000/589161
+Finished entry 220000/589161
+Finished entry 240000/589161
+Finished entry 260000/589161
+Finished entry 280000/589161
+Finished entry 300000/589161
+Finished entry 320000/589161
+Finished entry 340000/589161
+Finished entry 360000/589161
+Finished entry 380000/589161
+Finished entry 400000/589161
+Finished entry 420000/589161
+Finished entry 440000/589161
+Finished entry 460000/589161
+Finished entry 480000/589161
+Finished entry 500000/589161
+Finished entry 520000/589161
+Finished entry 540000/589161
+Finished entry 560000/589161
+Finished entry 580000/589161
+Finished entry 589161/589161
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 589162.000000
+   Passing smikking 0.000000
+Inspected genWeightd 589162.000000   % change= 0.000000
+   METFiltersPassed 584691.000000   % change= 0.758874
+    SingleTrgPassed 482863.000000   % change= 17.415695
+     GoodMuonPassed 337507.000000   % change= 30.102948
+      GoodTauPassed 13210.000000   % change= 96.086007
+         opp charge 10755.000000   % change= 18.584406
+         after sf 1 0.000000   % change= 18.584406
+         after sf 2 0.000000   % change= 18.584406
+         after sf 3 0.000000   % change= 18.584406
+         after sf 4 10755.000000   % change= 18.584406
+ PassedThirdLepVeto 10674.000000   % change= 0.753138
+     PassedBjetVeto 9988.000000   % change= 6.426832
+       DeltaRPassed 9949.000000   % change= 0.390469
+      Total change :98.311330
+*******************************************
+*******************************************
+Number of events inspected: 589162
+Number of events inspected (minus negative gen. weights): 589162.000000
+ Outpt written to SingleMuon_EraE_03.root
+Real time 0:02:37, CP time 73.570

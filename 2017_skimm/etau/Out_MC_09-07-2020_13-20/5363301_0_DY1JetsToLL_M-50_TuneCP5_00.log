@@ -1,0 +1,55 @@
+000 (5363301.000.000) 07/09 13:20:31 Job submitted from host: <144.92.180.29:9618?addrs=144.92.180.29-9618+[2607-f388-101c-1000--369]-9618&noUDP&sock=61097_09e4_3>
+...
+001 (5363301.000.000) 07/09 13:21:01 Job executing on host: <128.104.227.126:9618?addrs=128.104.227.126-9618+[2607-f388-101c-1000--73]-9618&noUDP&sock=137814_8504_3>
+...
+006 (5363301.000.000) 07/09 13:21:10 Image size of job updated: 228996
+	106  -  MemoryUsage of job (MB)
+	108416  -  ResidentSetSize of job (KB)
+...
+006 (5363301.000.000) 07/09 13:41:11 Image size of job updated: 419264
+	410  -  MemoryUsage of job (MB)
+	419120  -  ResidentSetSize of job (KB)
+...
+006 (5363301.000.000) 07/09 14:01:12 Image size of job updated: 420496
+	411  -  MemoryUsage of job (MB)
+	420352  -  ResidentSetSize of job (KB)
+...
+006 (5363301.000.000) 07/09 14:21:13 Image size of job updated: 421380
+	412  -  MemoryUsage of job (MB)
+	420996  -  ResidentSetSize of job (KB)
+...
+006 (5363301.000.000) 07/09 14:41:13 Image size of job updated: 421608
+	412  -  MemoryUsage of job (MB)
+	421484  -  ResidentSetSize of job (KB)
+...
+006 (5363301.000.000) 07/09 15:01:13 Image size of job updated: 423248
+	413  -  MemoryUsage of job (MB)
+	422540  -  ResidentSetSize of job (KB)
+...
+006 (5363301.000.000) 07/09 15:21:13 Image size of job updated: 423896
+	414  -  MemoryUsage of job (MB)
+	423108  -  ResidentSetSize of job (KB)
+...
+022 (5363301.000.000) 07/09 15:41:47 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_27@g34n07.hep.wisc.edu <128.104.227.126:9618?addrs=128.104.227.126-9618+[2607-f388-101c-1000--73]-9618&noUDP&sock=137814_8504_3>
+...
+023 (5363301.000.000) 07/09 15:41:47 Job reconnected to slot1_27@g34n07.hep.wisc.edu
+    startd address: <128.104.227.126:9618?addrs=128.104.227.126-9618+[2607-f388-101c-1000--73]-9618&noUDP&sock=137814_8504_3>
+    starter address: <128.104.227.126:9618?addrs=128.104.227.126-9618+[2607-f388-101c-1000--73]-9618&noUDP&sock=137941_a9c2_10809>
+...
+005 (5363301.000.000) 07/09 15:43:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:25:55, Sys 0 00:01:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:25:55, Sys 0 00:01:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	4042246144  -  Run Bytes Sent By Job
+	218203  -  Run Bytes Received By Job
+	4042246144  -  Total Bytes Sent By Job
+	218203  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.12        1         1 
+	   Disk (KB)            : 3947779     2048000  19010182 
+	   Memory (MB)          :     414        1992      2048 
+...

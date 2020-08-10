@@ -1,0 +1,58 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:54192
+Running over 54192 events.
+Finished entry 0/54191
+Finished entry 2000/54191
+Finished entry 4000/54191
+Finished entry 6000/54191
+Finished entry 8000/54191
+Finished entry 10000/54191
+Finished entry 12000/54191
+Finished entry 14000/54191
+Finished entry 16000/54191
+Finished entry 18000/54191
+Finished entry 20000/54191
+Finished entry 22000/54191
+Finished entry 24000/54191
+Finished entry 26000/54191
+Finished entry 28000/54191
+Finished entry 30000/54191
+Finished entry 32000/54191
+Finished entry 34000/54191
+Finished entry 36000/54191
+Finished entry 38000/54191
+Finished entry 40000/54191
+Finished entry 42000/54191
+Finished entry 44000/54191
+Finished entry 46000/54191
+Finished entry 48000/54191
+Finished entry 50000/54191
+Finished entry 52000/54191
+Finished entry 54000/54191
+Finished entry 54191/54191
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 54192.000000
+   Passing smikking 0.000000
+Inspected genWeightd 54182.000000   % change= 0.018453
+   METFiltersPassed 51689.843758   % change= 4.599602
+    SingleTrgPassed 32195.892612   % change= 37.713310
+     GoodMuonPassed 26743.073824   % change= 16.936380
+      GoodTauPassed 445.468437   % change= 98.334266
+         opp charge 370.768959   % change= 16.768748
+ PassedThirdLepVeto 0.000000   % change= 100.000000
+     PassedBjetVeto 0.000000   % change= -nan
+       DeltaRPassed 0.000000   % change= -nan
+      Total change :100.000000
+*******************************************
+*******************************************
+Number of events inspected: 54192
+Number of events inspected (minus negative gen. weights): 54182.000000
+ Outpt written to WJetsToLNu_TuneCP5_00.root
+Real time 0:00:28, CP time 21.920

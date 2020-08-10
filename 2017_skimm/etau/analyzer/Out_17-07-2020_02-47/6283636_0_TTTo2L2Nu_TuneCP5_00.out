@@ -1,0 +1,50 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:1044294
+Running over 1044294 events.
+Finished entry 0/1044293
+Finished entry 50000/1044293
+Finished entry 100000/1044293
+Finished entry 150000/1044293
+Finished entry 200000/1044293
+Finished entry 250000/1044293
+Finished entry 300000/1044293
+Finished entry 350000/1044293
+Finished entry 400000/1044293
+Finished entry 450000/1044293
+Finished entry 500000/1044293
+Finished entry 550000/1044293
+Finished entry 600000/1044293
+Finished entry 650000/1044293
+Finished entry 700000/1044293
+Finished entry 750000/1044293
+Finished entry 800000/1044293
+Finished entry 850000/1044293
+Finished entry 900000/1044293
+Finished entry 950000/1044293
+Finished entry 1000000/1044293
+Finished entry 1044293/1044293
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1044294.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1036714.000000   % change= 0.725849
+   METFiltersPassed 1029113.645855   % change= 0.733120
+    SingleTrgPassed 695906.941142   % change= 32.378028
+     GoodMuonPassed 620418.377045   % change= 10.847508
+      GoodTauPassed 99744.757363   % change= 83.922985
+         opp charge 97207.149353   % change= 2.544102
+ PassedThirdLepVeto 1.578435   % change= 99.998376
+     PassedBjetVeto 1.578435   % change= 0.000000
+       DeltaRPassed 1.578435   % change= 0.000000
+      Total change :99.999849
+*******************************************
+*******************************************
+Number of events inspected: 1044294
+Number of events inspected (minus negative gen. weights): 1036714.000000
+ Outpt written to TTTo2L2Nu_TuneCP5_00.root
+Real time 0:08:16, CP time 323.640

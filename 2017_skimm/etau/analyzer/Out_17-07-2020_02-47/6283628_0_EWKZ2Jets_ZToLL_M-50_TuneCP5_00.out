@@ -1,0 +1,51 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:106673
+Running over 106673 events.
+Finished entry 0/106672
+Finished entry 5000/106672
+Finished entry 10000/106672
+Finished entry 15000/106672
+Finished entry 20000/106672
+Finished entry 25000/106672
+Finished entry 30000/106672
+Finished entry 35000/106672
+Finished entry 40000/106672
+Finished entry 45000/106672
+Finished entry 50000/106672
+Finished entry 55000/106672
+Finished entry 60000/106672
+Finished entry 65000/106672
+Finished entry 70000/106672
+Finished entry 75000/106672
+Finished entry 80000/106672
+Finished entry 85000/106672
+Finished entry 90000/106672
+Finished entry 95000/106672
+Finished entry 100000/106672
+Finished entry 105000/106672
+Finished entry 106672/106672
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 106673.000000
+   Passing smikking 0.000000
+Inspected genWeightd 106569.000000   % change= 0.097494
+   METFiltersPassed 104465.854581   % change= 1.973506
+    SingleTrgPassed 75119.042753   % change= 28.092253
+     GoodMuonPassed 67688.120480   % change= 9.892195
+      GoodTauPassed 2655.995018   % change= 96.076128
+         opp charge 2168.124541   % change= 18.368652
+ PassedThirdLepVeto 1.255647   % change= 99.942086
+     PassedBjetVeto 1.255647   % change= 0.000000
+       DeltaRPassed 1.255647   % change= 0.000000
+      Total change :99.998823
+*******************************************
+*******************************************
+Number of events inspected: 106673
+Number of events inspected (minus negative gen. weights): 106569.000000
+ Outpt written to EWKZ2Jets_ZToLL_M-50_TuneCP5_00.root
+Real time 0:00:41, CP time 29.420

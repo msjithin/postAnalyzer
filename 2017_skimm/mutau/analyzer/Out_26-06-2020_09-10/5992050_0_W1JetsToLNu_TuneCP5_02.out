@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108688
+Running over 108688 events.
+Finished entry 0/108687
+Finished entry 5000/108687
+Finished entry 10000/108687
+Finished entry 15000/108687
+Finished entry 20000/108687
+Finished entry 25000/108687
+Finished entry 30000/108687
+Finished entry 35000/108687
+Finished entry 40000/108687
+Finished entry 45000/108687
+Finished entry 50000/108687
+Finished entry 55000/108687
+Finished entry 60000/108687
+Finished entry 65000/108687
+Finished entry 70000/108687
+Finished entry 75000/108687
+Finished entry 80000/108687
+Finished entry 85000/108687
+Finished entry 90000/108687
+Finished entry 95000/108687
+Finished entry 100000/108687
+Finished entry 105000/108687
+Finished entry 108687/108687
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108688.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108684.000000   % change= 0.003680
+   METFiltersPassed 104518.683588   % change= 3.832502
+    SingleTrgPassed 82586.963373   % change= 20.983540
+     GoodMuonPassed 71537.535443   % change= 13.379143
+      GoodTauPassed 2171.257781   % change= 96.964869
+         opp charge 1884.733480   % change= 13.196236
+         after sf 1 0.000000   % change= 13.196236
+         after sf 2 0.000000   % change= 13.196236
+         after sf 3 0.000000   % change= 13.196236
+         after sf 4 1553.394851   % change= 13.196236
+ PassedThirdLepVeto 1550.939233   % change= 17.710422
+     PassedBjetVeto 1545.411768   % change= 0.356395
+       DeltaRPassed 1542.687484   % change= 0.176282
+      Total change :98.580628
+*******************************************
+*******************************************
+Number of events inspected: 108688
+Number of events inspected (minus negative gen. weights): 108684.000000
+ Outpt written to W1JetsToLNu_TuneCP5_02.root
+Real time 0:00:42, CP time 28.270

@@ -1,0 +1,54 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:649
+Running over 649 events.
+Finished entry 0/648
+Finished entry 30/648
+Finished entry 60/648
+Finished entry 90/648
+Finished entry 120/648
+Finished entry 150/648
+Finished entry 180/648
+Finished entry 210/648
+Finished entry 240/648
+Finished entry 270/648
+Finished entry 300/648
+Finished entry 330/648
+Finished entry 360/648
+Finished entry 390/648
+Finished entry 420/648
+Finished entry 450/648
+Finished entry 480/648
+Finished entry 510/648
+Finished entry 540/648
+Finished entry 570/648
+Finished entry 600/648
+Finished entry 630/648
+Finished entry 648/648
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 649.000000
+   Passing smikking 0.000000
+Inspected genWeightd 649.000000   % change= 0.000000
+   METFiltersPassed 586.960711   % change= 9.559212
+    SingleTrgPassed 15.092712   % change= 97.428667
+     GoodMuonPassed 5.434995   % change= 63.989277
+      GoodTauPassed 0.000000   % change= 100.000000
+         opp charge 0.000000   % change= -nan
+         after sf 1 0.000000   % change= -nan
+         after sf 2 0.000000   % change= -nan
+         after sf 3 0.000000   % change= -nan
+         after sf 4 0.000000   % change= -nan
+ PassedThirdLepVeto 0.000000   % change= -nan
+     PassedBjetVeto 0.000000   % change= -nan
+       DeltaRPassed 0.000000   % change= -nan
+      Total change :100.000000
+*******************************************
+*******************************************
+Number of events inspected: 649
+Number of events inspected (minus negative gen. weights): 649.000000
+ Outpt written to ZJetsToNuNu_HT-100To200_01.root
+Real time 0:00:03, CP time 2.140

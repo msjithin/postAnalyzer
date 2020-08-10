@@ -1,0 +1,67 @@
+000 (2933604.000.000) 07/19 17:02:19 Job submitted from host: <144.92.180.28:9618?addrs=144.92.180.28-9618+[2607-f388-101c-1000--370]-9618&noUDP&sock=4165887_8e8e_6>
+...
+001 (2933604.000.000) 07/19 17:02:25 Job executing on host: <144.92.180.123:9618?addrs=144.92.180.123-9618+[2607-f388-101c-1000--629]-9618&noUDP&sock=3380_fa32_3>
+...
+006 (2933604.000.000) 07/19 17:02:34 Image size of job updated: 141756
+	34  -  MemoryUsage of job (MB)
+	34176  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 17:22:34 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	539676  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 17:42:34 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	539796  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 18:02:34 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	540212  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 18:42:36 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	540224  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 19:02:37 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	540228  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 19:22:37 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	540264  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 19:42:38 Image size of job updated: 542548
+	528  -  MemoryUsage of job (MB)
+	540360  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 20:02:39 Image size of job updated: 545452
+	528  -  MemoryUsage of job (MB)
+	540404  -  ResidentSetSize of job (KB)
+...
+006 (2933604.000.000) 07/19 20:22:39 Image size of job updated: 545452
+	528  -  MemoryUsage of job (MB)
+	540536  -  ResidentSetSize of job (KB)
+...
+022 (2933604.000.000) 07/19 21:51:28 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_4@g26n21.hep.wisc.edu <144.92.180.123:9618?addrs=144.92.180.123-9618+[2607-f388-101c-1000--629]-9618&noUDP&sock=3380_fa32_3>
+...
+023 (2933604.000.000) 07/19 21:51:28 Job reconnected to slot1_4@g26n21.hep.wisc.edu
+    startd address: <144.92.180.123:9618?addrs=144.92.180.123-9618+[2607-f388-101c-1000--629]-9618&noUDP&sock=3380_fa32_3>
+    starter address: <144.92.180.123:9618?addrs=144.92.180.123-9618+[2607-f388-101c-1000--629]-9618&noUDP&sock=3854_3dd6_54583>
+...
+005 (2933604.000.000) 07/19 22:04:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:20:54, Sys 0 00:04:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:20:54, Sys 0 00:04:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7625687552  -  Run Bytes Sent By Job
+	218142  -  Run Bytes Received By Job
+	7625687552  -  Total Bytes Sent By Job
+	218142  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.01        1         1 
+	   Disk (KB)            : 7447235     2048000  18349713 
+	   Memory (MB)          :     528        1992      2048 
+...

@@ -1,0 +1,60 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:52264
+Running over 52264 events.
+Finished entry 0/52263
+Finished entry 2000/52263
+Finished entry 4000/52263
+Finished entry 6000/52263
+Finished entry 8000/52263
+Finished entry 10000/52263
+Finished entry 12000/52263
+Finished entry 14000/52263
+Finished entry 16000/52263
+Finished entry 18000/52263
+Finished entry 20000/52263
+Finished entry 22000/52263
+Finished entry 24000/52263
+Finished entry 26000/52263
+Finished entry 28000/52263
+Finished entry 30000/52263
+Finished entry 32000/52263
+Finished entry 34000/52263
+Finished entry 36000/52263
+Finished entry 38000/52263
+Finished entry 40000/52263
+Finished entry 42000/52263
+Finished entry 44000/52263
+Finished entry 46000/52263
+Finished entry 48000/52263
+Finished entry 50000/52263
+Finished entry 52000/52263
+Finished entry 52263/52263
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 52264.000000
+   Passing smikking 0.000000
+Inspected genWeightd 52264.000000   % change= 0.000000
+   METFiltersPassed 48049.170409   % change= 8.064499
+    SingleTrgPassed 628.381343   % change= 98.692212
+     GoodMuonPassed 226.273395   % change= 63.991071
+      GoodTauPassed 3.400783   % change= 98.497047
+         opp charge 1.212477   % change= 64.347133
+         after sf 1 1.212477   % change= 64.347133
+         after sf 2 0.000000   % change= 64.347133
+         after sf 3 0.000000   % change= 64.347133
+         after sf 4 1.257502   % change= 64.347133
+ PassedThirdLepVeto 0.400267   % change= 66.987612
+     PassedBjetVeto 0.400267   % change= 0.000000
+       DeltaRPassed 0.400267   % change= 0.000000
+      Total change :99.999234
+*******************************************
+*******************************************
+Number of events inspected: 52264
+Number of events inspected (minus negative gen. weights): 52264.000000
+ Outpt written to TTToHadronic_TuneCP5_04.root
+Real time 0:00:23, CP time 15.180

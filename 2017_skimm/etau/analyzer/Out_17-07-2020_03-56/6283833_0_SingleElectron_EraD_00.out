@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1073416
+Running over 1073416 events.
+Finished entry 0/1073415
+Finished entry 50000/1073415
+Finished entry 100000/1073415
+Finished entry 150000/1073415
+Finished entry 200000/1073415
+Finished entry 250000/1073415
+Finished entry 300000/1073415
+Finished entry 350000/1073415
+Finished entry 400000/1073415
+Finished entry 450000/1073415
+Finished entry 500000/1073415
+Finished entry 550000/1073415
+Finished entry 600000/1073415
+Finished entry 650000/1073415
+Finished entry 700000/1073415
+Finished entry 750000/1073415
+Finished entry 800000/1073415
+Finished entry 850000/1073415
+Finished entry 900000/1073415
+Finished entry 950000/1073415
+Finished entry 1000000/1073415
+Finished entry 1050000/1073415
+Finished entry 1073415/1073415
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1073416.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1073416.000000   % change= 0.000000
+   METFiltersPassed 1069970.000000   % change= 0.321031
+    SingleTrgPassed 937063.000000   % change= 12.421563
+     GoodMuonPassed 598991.000000   % change= 36.077830
+      GoodTauPassed 14423.000000   % change= 97.592117
+         opp charge 11488.000000   % change= 20.349442
+         after sf 1 11488.000000   % change= 20.349442
+         after sf 2 0.000000   % change= 20.349442
+         after sf 3 0.000000   % change= 20.349442
+         after sf 4 11856.000000   % change= 20.349442
+ PassedThirdLepVeto 11444.000000   % change= 0.383008
+     PassedBjetVeto 10491.000000   % change= 8.327508
+       DeltaRPassed 10451.000000   % change= 0.381279
+      Total change :99.026379
+*******************************************
+*******************************************
+Number of events inspected: 1073416
+Number of events inspected (minus negative gen. weights): 1073416.000000
+ Outpt written to SingleElectron_EraD_00.root
+Real time 0:03:35, CP time 180.850

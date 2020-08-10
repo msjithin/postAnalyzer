@@ -1,0 +1,71 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:372371
+Running over 372371 events.
+Finished entry 0/372370
+Finished entry 10000/372370
+Finished entry 20000/372370
+Finished entry 30000/372370
+Finished entry 40000/372370
+Finished entry 50000/372370
+Finished entry 60000/372370
+Finished entry 70000/372370
+Finished entry 80000/372370
+Finished entry 90000/372370
+Finished entry 100000/372370
+Finished entry 110000/372370
+Finished entry 120000/372370
+Finished entry 130000/372370
+Finished entry 140000/372370
+Finished entry 150000/372370
+Finished entry 160000/372370
+Finished entry 170000/372370
+Finished entry 180000/372370
+Finished entry 190000/372370
+Finished entry 200000/372370
+Finished entry 210000/372370
+Finished entry 220000/372370
+Finished entry 230000/372370
+Finished entry 240000/372370
+Finished entry 250000/372370
+Finished entry 260000/372370
+Finished entry 270000/372370
+Finished entry 280000/372370
+Finished entry 290000/372370
+Finished entry 300000/372370
+Finished entry 310000/372370
+Finished entry 320000/372370
+Finished entry 330000/372370
+Finished entry 340000/372370
+Finished entry 350000/372370
+Finished entry 360000/372370
+Finished entry 370000/372370
+Finished entry 372370/372370
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 372371.000000
+   Passing smikking 0.000000
+Inspected genWeightd 369643.000000   % change= 0.732603
+   METFiltersPassed 354554.612480   % change= 4.081881
+    SingleTrgPassed 207528.691698   % change= 41.467778
+     GoodMuonPassed 183779.386540   % change= 11.443866
+      GoodTauPassed 4162.076050   % change= 97.735287
+         opp charge 3202.314522   % change= 23.059683
+         after sf 1 3202.314522   % change= 23.059683
+         after sf 2 0.000000   % change= 23.059683
+         after sf 3 0.000000   % change= 23.059683
+         after sf 4 2727.231613   % change= 23.059683
+ PassedThirdLepVeto 2688.525418   % change= 16.044305
+     PassedBjetVeto 1671.510230   % change= 37.827992
+       DeltaRPassed 1659.700213   % change= 0.706548
+      Total change :99.554289
+*******************************************
+*******************************************
+Number of events inspected: 372371
+Number of events inspected (minus negative gen. weights): 369643.000000
+ Outpt written to TTToSemiLeptonic_TuneCP5_04.root
+Real time 0:02:45, CP time 115.180

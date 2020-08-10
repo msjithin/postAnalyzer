@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+.... DATA file ..... 
+Coming in: 
+nentries:1183950
+Running over 1183950 events.
+Finished entry 0/1183949
+Finished entry 50000/1183949
+Finished entry 100000/1183949
+Finished entry 150000/1183949
+Finished entry 200000/1183949
+Finished entry 250000/1183949
+Finished entry 300000/1183949
+Finished entry 350000/1183949
+Finished entry 400000/1183949
+Finished entry 450000/1183949
+Finished entry 500000/1183949
+Finished entry 550000/1183949
+Finished entry 600000/1183949
+Finished entry 650000/1183949
+Finished entry 700000/1183949
+Finished entry 750000/1183949
+Finished entry 800000/1183949
+Finished entry 850000/1183949
+Finished entry 900000/1183949
+Finished entry 950000/1183949
+Finished entry 1000000/1183949
+Finished entry 1050000/1183949
+Finished entry 1100000/1183949
+Finished entry 1150000/1183949
+Finished entry 1183949/1183949
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1183950.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1183950.000000   % change= 0.000000
+   METFiltersPassed 1174040.000000   % change= 0.837029
+    SingleTrgPassed 987435.000000   % change= 15.894263
+     GoodMuonPassed 653383.000000   % change= 33.830277
+      GoodTauPassed 23533.000000   % change= 96.398284
+         opp charge 18728.000000   % change= 20.418136
+         after sf 1 0.000000   % change= 20.418136
+         after sf 2 0.000000   % change= 20.418136
+         after sf 3 0.000000   % change= 20.418136
+         after sf 4 18728.000000   % change= 20.418136
+ PassedThirdLepVeto 18589.000000   % change= 0.742204
+     PassedBjetVeto 17464.000000   % change= 6.051966
+       DeltaRPassed 17419.000000   % change= 0.257673
+      Total change :98.528739
+*******************************************
+*******************************************
+Number of events inspected: 1183950
+Number of events inspected (minus negative gen. weights): 1183950.000000
+ Outpt written to SingleMuon_EraF_01.root
+Real time 0:05:33, CP time 269.820

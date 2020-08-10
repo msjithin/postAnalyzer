@@ -1,0 +1,49 @@
+********** for data *********
+All files added.
+Initializing chain.
+Output 23_SingleMuon_21-05-2020_08-21.root
+Coming in: 
+nentries:15447845
+Running over 15447845 events.
+Finished entry 0/15447844
+Finished entry 1000000/15447844
+Finished entry 2000000/15447844
+Finished entry 3000000/15447844
+Finished entry 4000000/15447844
+Finished entry 5000000/15447844
+Finished entry 6000000/15447844
+Finished entry 7000000/15447844
+Finished entry 8000000/15447844
+Finished entry 9000000/15447844
+Finished entry 10000000/15447844
+Finished entry 11000000/15447844
+Finished entry 12000000/15447844
+Finished entry 13000000/15447844
+Finished entry 14000000/15447844
+Finished entry 15000000/15447844
+Finished entry 15447844/15447844
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 15447845.000000
+Inspected genWeightd 0.000000
+   METFiltersPassed 15428158.000000
+    SingleTrgPassed 10719595.000000
+     GoodMuonPassed 7720200.000000
+ Good Muon 2 Passed 522874.000000
+         opp charge 522726.000000
+       DeltaRPassed 518008.000000
+     PassedBjetVeto 505814.000000
+PassedVisibleMasscut 460266.000000
+     nGoodTauPassed 33190.000000
+    nTightTauPassed 389.000000
+   nVLooseTauPassed 1924.000000
+*******************************************
+*******************************************
+Number of events inspected: 0
+Number of events inspected (minus negative gen. weights): 0.000000
+ (net weight with SF): 1.000000
+*******************************************
+  Real Time = 1849.903,    Cpu Time = 1009.020
+***************************
+Output written to  23_SingleMuon_21-05-2020_08-21.root

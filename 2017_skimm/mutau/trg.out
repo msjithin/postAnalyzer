@@ -1,0 +1,9506 @@
+dy sample analysis.....
+********** for MC *********
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:9741229
+Running over 100000 events.
+Finished entry 0/99999
+ 
+HLT mu-tau cross 0  event:24
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:173
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:373
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:421
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:439
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:451
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:620
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:636
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:710
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:732
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:775
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:816
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:938
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:1086
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:1152
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1263
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1279
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:1361
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1382
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1417
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1492
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1523
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1658
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1969
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:2381
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2493
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:2543
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:2566
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:2572
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:2875
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2877
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2955
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2965
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:3168
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:3566
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:3590
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:3597
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:3809
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4043
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4237
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4262
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4384
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4526
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4537
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:4672
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4801
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4910
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4938
+  tau:0
+  tau:1
+  tau:2
+Finished entry 5000/99999
+ 
+HLT mu-tau cross 0  event:5001
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5090
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5306
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5516
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:5523
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5560
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:5593
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:5927
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:6122
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:6247
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6287
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6390
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:6441
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6506
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6512
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:6515
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6532
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6641
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6814
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:6859
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6878
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6890
+  tau:0
+ 
+HLT mu-tau cross 0  event:7023
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:7052
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7122
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7137
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:7215
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7543
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7641
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7968
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:7999
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8114
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8135
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8158
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8332
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8391
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8453
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8564
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8588
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8627
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8813
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8874
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:9089
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:9189
+  tau:0
+ 
+HLT mu-tau cross 0  event:9515
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:9617
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:9732
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:9863
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:9911
+  tau:0
+  tau:1
+Finished entry 10000/99999
+ 
+HLT mu-tau cross 0  event:10077
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10110
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10113
+  tau:0
+ 
+HLT mu-tau cross 0  event:10196
+  tau:0
+ 
+HLT mu-tau cross 0  event:10313
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10562
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10578
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10639
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10974
+  tau:0
+ 
+HLT mu-tau cross 0  event:11008
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:11097
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:11183
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:11206
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:11494
+  tau:0
+ 
+HLT mu-tau cross 0  event:11568
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:11570
+  tau:0
+ 
+HLT mu-tau cross 0  event:11618
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:11741
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12113
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12182
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12188
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:12247
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12362
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12401
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:12434
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12471
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:12790
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12923
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:13240
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:13261
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13281
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13358
+  tau:0
+ 
+HLT mu-tau cross 0  event:13405
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:13462
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:13726
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13894
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13965
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14268
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14364
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14655
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:14697
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14872
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:14921
+  tau:0
+  tau:1
+  tau:2
+Finished entry 15000/99999
+ 
+HLT mu-tau cross 0  event:15043
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15104
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:15140
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15194
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:15234
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15447
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:15510
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15560
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15640
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15691
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:15811
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:15827
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16073
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16166
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16250
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16366
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16470
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16708
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16758
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16788
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16833
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16879
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16913
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:17081
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:17083
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:17282
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:17287
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:17585
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:17634
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:17762
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:17890
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:18165
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:18197
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:18288
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:18894
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:18933
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:18973
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19116
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19558
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19767
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19793
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19841
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19900
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19941
+  tau:0
+  tau:1
+Finished entry 20000/99999
+ 
+HLT mu-tau cross 0  event:20221
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20246
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:20364
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20638
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20703
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:20815
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21082
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21232
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21282
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21290
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21406
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21407
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21566
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21628
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21795
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21871
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21993
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22145
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22267
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22273
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22350
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22470
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22667
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22687
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22753
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22810
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22827
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23121
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23126
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:23472
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:23722
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23999
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24155
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:24205
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24287
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24404
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:24467
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24525
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24530
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:24580
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24665
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:24696
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24738
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24901
+  tau:0
+  tau:1
+Finished entry 25000/99999
+ 
+HLT mu-tau cross 0  event:25110
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25115
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25186
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25188
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:25449
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:25468
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25561
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25610
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25621
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25651
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:25810
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:25871
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:26085
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26106
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26214
+  tau:0
+ 
+HLT mu-tau cross 0  event:26218
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26358
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26562
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26577
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26615
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27014
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27033
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27344
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27364
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27385
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27576
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27577
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27596
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27616
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27697
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27712
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27759
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27761
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27884
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27892
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:27950
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28064
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28342
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28383
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28403
+  tau:0
+ 
+HLT mu-tau cross 0  event:28537
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28633
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:28759
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28927
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28968
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:29237
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29238
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:29239
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:29260
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29327
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29346
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29352
+  tau:0
+  tau:1
+  tau:2
+Finished entry 30000/99999
+ 
+HLT mu-tau cross 0  event:30009
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30163
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:30172
+  tau:0
+ 
+HLT mu-tau cross 0  event:30211
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:30858
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31006
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31101
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31134
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31174
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31215
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31378
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31396
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31691
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31723
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31779
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31820
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31843
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31844
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31886
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32127
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32323
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32421
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32530
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32674
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32712
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33055
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33056
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33236
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33237
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33283
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33299
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33325
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33549
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33646
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33689
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33760
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33766
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33802
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33828
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33997
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34191
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34194
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34218
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34243
+  tau:0
+ 
+HLT mu-tau cross 0  event:34529
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34587
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34591
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34607
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34737
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34788
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34862
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34890
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34970
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34989
+  tau:0
+  tau:1
+Finished entry 35000/99999
+ 
+HLT mu-tau cross 0  event:35133
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:35157
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:35204
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:35418
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:35499
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:35925
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36002
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36120
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36886
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36937
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36992
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37131
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37223
+  tau:0
+ 
+HLT mu-tau cross 0  event:37314
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37397
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37416
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37557
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37626
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37637
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37705
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37739
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38041
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38047
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38126
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:38153
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:38438
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38515
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:38628
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38639
+  tau:0
+ 
+HLT mu-tau cross 0  event:38869
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:38916
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39017
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39113
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39157
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39270
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39426
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39575
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39589
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39677
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39936
+  tau:0
+  tau:1
+  tau:2
+Finished entry 40000/99999
+ 
+HLT mu-tau cross 0  event:40033
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:40169
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:40304
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:40410
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:40477
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:40973
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41000
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41025
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41136
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41206
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41308
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41348
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41577
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41601
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41640
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:41845
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42046
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42123
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42129
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42250
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42509
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42539
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42589
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42694
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:43087
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43114
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43132
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43335
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43467
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43656
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43796
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43866
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43988
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:44030
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:44061
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44064
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44150
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44235
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:44340
+  tau:0
+ 
+HLT mu-tau cross 0  event:44350
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44572
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45000
+  tau:0
+  tau:1
+  tau:2
+Finished entry 45000/99999
+ 
+HLT mu-tau cross 0  event:45096
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:45371
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45384
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45670
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45685
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45709
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46110
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46138
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46362
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46363
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:46517
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46633
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46738
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46828
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46859
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46871
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46964
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47046
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47066
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47139
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47375
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47402
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47459
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47512
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47581
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47637
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47666
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:47829
+  tau:0
+ 
+HLT mu-tau cross 0  event:48109
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:48153
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48415
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48566
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:48704
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49130
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49210
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49406
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49430
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49447
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49460
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49470
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49515
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49534
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49710
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49732
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49753
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49759
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49781
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49830
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49833
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49894
+  tau:0
+ 
+HLT mu-tau cross 0  event:49978
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49995
+  tau:0
+  tau:1
+Finished entry 50000/99999
+ 
+HLT mu-tau cross 0  event:50107
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50290
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:50319
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:50320
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50333
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50383
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:50457
+  tau:0
+ 
+HLT mu-tau cross 0  event:50549
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50578
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:50695
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50714
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50749
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50877
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:50908
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50988
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51024
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51061
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51165
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51278
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51416
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51484
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51510
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51556
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51811
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51985
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52170
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52299
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52338
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52341
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52395
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52460
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52559
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52567
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52635
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52692
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52760
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52788
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52961
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52965
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53005
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53290
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53665
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53709
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53756
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53967
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53976
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54149
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54313
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54486
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54676
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54749
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54864
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54906
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54939
+  tau:0
+  tau:1
+Finished entry 55000/99999
+ 
+HLT mu-tau cross 0  event:55095
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55109
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55367
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55423
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55433
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55554
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55586
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55644
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55673
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56188
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:56218
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:56220
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:56461
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56473
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57139
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57318
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57371
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57380
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57407
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57441
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57574
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57643
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57761
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57918
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57982
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:58200
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:58294
+  tau:0
+ 
+HLT mu-tau cross 0  event:58844
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58925
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58971
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59054
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59275
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59441
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59507
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59530
+  tau:0
+ 
+HLT mu-tau cross 0  event:59534
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59566
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59644
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59711
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59773
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59821
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59848
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59996
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+Finished entry 60000/99999
+ 
+HLT mu-tau cross 0  event:60171
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60228
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60296
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60451
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60528
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60677
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60687
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60688
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60808
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60822
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60825
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60959
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60988
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61162
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61199
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61224
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61330
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61627
+  tau:0
+ 
+HLT mu-tau cross 0  event:61633
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62011
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62113
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62347
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62460
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62513
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62757
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62809
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62925
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62956
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63099
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63129
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63727
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63776
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63781
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63782
+  tau:0
+ 
+HLT mu-tau cross 0  event:63799
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64020
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64033
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64315
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64423
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64573
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64718
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64740
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64887
+  tau:0
+  tau:1
+  tau:2
+Finished entry 65000/99999
+ 
+HLT mu-tau cross 0  event:65204
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65216
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:65356
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65439
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:65626
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:65814
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:66158
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66203
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66235
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66861
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:66878
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:67062
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67123
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67148
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67202
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67296
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67305
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67311
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67373
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67427
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67567
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67583
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67675
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67691
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67947
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67984
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68078
+  tau:0
+ 
+HLT mu-tau cross 0  event:68108
+  tau:0
+ 
+HLT mu-tau cross 0  event:68175
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68203
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68253
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68369
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:68390
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68423
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68466
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68483
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68506
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68607
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68653
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68771
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68792
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68827
+  tau:0
+ 
+HLT mu-tau cross 0  event:68939
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:69050
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69340
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:69697
+  tau:0
+ 
+HLT mu-tau cross 0  event:69810
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69980
+  tau:0
+  tau:1
+  tau:2
+Finished entry 70000/99999
+ 
+HLT mu-tau cross 0  event:70056
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70312
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70486
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70580
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70680
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70687
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70839
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70970
+  tau:0
+ 
+HLT mu-tau cross 0  event:71126
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71191
+  tau:0
+ 
+HLT mu-tau cross 0  event:71329
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71395
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71434
+  tau:0
+ 
+HLT mu-tau cross 0  event:71650
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71784
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71819
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71913
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71919
+  tau:0
+ 
+HLT mu-tau cross 0  event:72141
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72184
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:72324
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72500
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72592
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:72819
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:72823
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72858
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72909
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:73371
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73383
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:73409
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73421
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:73618
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:73672
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73705
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:73934
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:73947
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73953
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:73978
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74230
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74304
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74331
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74359
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:74500
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74531
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74610
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:74661
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74973
+  tau:0
+  tau:1
+  tau:2
+Finished entry 75000/99999
+ 
+HLT mu-tau cross 0  event:75015
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75246
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75334
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75348
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75661
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75794
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75838
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75878
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76003
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76011
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76059
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76078
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76094
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76362
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76460
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76622
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76986
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77124
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77148
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:77271
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77366
+  tau:0
+ 
+HLT mu-tau cross 0  event:77517
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:77563
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77723
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:77823
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:78010
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:78094
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:78179
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:78288
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:78663
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:78888
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:78916
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:78949
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79068
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79074
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79085
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79215
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79258
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79346
+  tau:0
+ 
+HLT mu-tau cross 0  event:79364
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79401
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79771
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79805
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79834
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79857
+  tau:0
+  tau:1
+Finished entry 80000/99999
+ 
+HLT mu-tau cross 0  event:80040
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:80151
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80214
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80541
+  tau:0
+ 
+HLT mu-tau cross 0  event:80657
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:80682
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80697
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80745
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:80763
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80879
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80908
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:81253
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:81260
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:81778
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:81841
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82004
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82321
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82430
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82814
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82822
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82831
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82841
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82973
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83008
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:83009
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83038
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83045
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83096
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83145
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:83178
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83263
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83292
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83296
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83874
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:83999
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84487
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84585
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:84653
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:84681
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:84697
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84713
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:84715
+  tau:0
+  tau:1
+  tau:2
+Finished entry 85000/99999
+ 
+HLT mu-tau cross 0  event:85230
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85268
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:85414
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85420
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85483
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86029
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:86108
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86315
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:86501
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:86525
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86762
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86907
+  tau:0
+ 
+HLT mu-tau cross 0  event:87100
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87206
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87226
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87233
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:87293
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87337
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:87651
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:87873
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87883
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87897
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88131
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88182
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88241
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88254
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88266
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88468
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88527
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:88770
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88891
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89083
+  tau:0
+ 
+HLT mu-tau cross 0  event:89343
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89360
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89590
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89614
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89653
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89667
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89823
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89843
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89902
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89942
+  tau:0
+  tau:1
+  tau:2
+Finished entry 90000/99999
+ 
+HLT mu-tau cross 0  event:90180
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90274
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90289
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90644
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90685
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90748
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90768
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90856
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91048
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91109
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:91234
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:91299
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91432
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91470
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91639
+  tau:0
+ 
+HLT mu-tau cross 0  event:91707
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:91732
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91842
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92101
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:92104
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92175
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92190
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92263
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:92732
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93039
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:93375
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93411
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:93549
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93580
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:93723
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93766
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:93850
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93864
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94049
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94073
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94082
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:94086
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94117
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94175
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94302
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94321
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94341
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:94428
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94459
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94653
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94786
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94895
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94896
+  tau:0
+  tau:1
+Finished entry 95000/99999
+ 
+HLT mu-tau cross 0  event:95018
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95108
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95130
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95257
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95386
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95436
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95446
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95572
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95578
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95617
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95911
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95931
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96109
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96114
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:96277
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96343
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:96500
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96553
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96562
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:96642
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96777
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:96969
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:97099
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97168
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:97454
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97666
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:97914
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:97933
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98110
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98173
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98208
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98245
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98297
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98298
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98344
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98351
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98418
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98585
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98726
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98812
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99076
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:99112
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99399
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99426
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99781
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99803
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99863
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99875
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99881
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99902
+  tau:0
+  tau:1
+  tau:2
+nPassedSkimmed = 2245
+Real time 0:02:12, CP time 30.680
+out put written to outSkimmed_mt_dy.root
+data sample analysis.....
+********** for MC *********
+All files added.
+Initializing chain.
+from Init DATA
+Coming in: 
+nentries:28567074
+Running over 100000 events.
+Finished entry 0/99999
+ 
+HLT mu-tau cross 0  event:214
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:224
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:295
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:327
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:387
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:409
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:432
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:624
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:771
+  tau:0
+ 
+HLT mu-tau cross 0  event:868
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:948
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:1105
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:1200
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1247
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:1614
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:1717
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:1986
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:2052
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2121
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:2300
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:2467
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2804
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:2933
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:3346
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:3380
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:3392
+ 
+HLT mu-tau cross 0  event:3473
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:3658
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:3667
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:3980
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:3997
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4004
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4024
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:4135
+  tau:0
+ 
+HLT mu-tau cross 0  event:4348
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4449
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4506
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4522
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:4605
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:4634
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:4673
+  tau:0
+ 
+HLT mu-tau cross 0  event:4830
+  tau:0
+ 
+HLT mu-tau cross 0  event:4915
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+Finished entry 5000/99999
+ 
+HLT mu-tau cross 0  event:5201
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5210
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:5367
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5448
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:5525
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5637
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:5665
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:5933
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6037
+  tau:0
+ 
+HLT mu-tau cross 0  event:6218
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6238
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6270
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6328
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6356
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:6616
+  tau:0
+ 
+HLT mu-tau cross 0  event:6909
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7058
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7103
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:7137
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7206
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:7212
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:7421
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:7422
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:7745
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8258
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8317
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8399
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8470
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:8492
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8639
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8651
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:8737
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:8790
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:9103
+  tau:0
+ 
+HLT mu-tau cross 0  event:9126
+  tau:0
+ 
+HLT mu-tau cross 0  event:9209
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:9548
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:9784
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:9932
+  tau:0
+  tau:1
+Finished entry 10000/99999
+ 
+HLT mu-tau cross 0  event:10025
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10318
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10379
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:10391
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:10439
+  tau:0
+ 
+HLT mu-tau cross 0  event:10654
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:10797
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:10828
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:10986
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:11563
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:11573
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:11691
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:11764
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:11786
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:11820
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12627
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:12632
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:12921
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13125
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:13357
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13368
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:13406
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:13969
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:14046
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14283
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:14541
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:14653
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14848
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:14978
+  tau:0
+  tau:1
+Finished entry 15000/99999
+ 
+HLT mu-tau cross 0  event:15191
+  tau:0
+ 
+HLT mu-tau cross 0  event:15352
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:15495
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:15939
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16021
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16203
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16258
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:16358
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:16709
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16716
+  tau:0
+ 
+HLT mu-tau cross 0  event:16765
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:16914
+  tau:0
+ 
+HLT mu-tau cross 0  event:17018
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:17058
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:17190
+  tau:0
+ 
+HLT mu-tau cross 0  event:17231
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:17310
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:17446
+  tau:0
+ 
+HLT mu-tau cross 0  event:17614
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:17762
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:17800
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:17987
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:18242
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:18245
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:18255
+  tau:0
+ 
+HLT mu-tau cross 0  event:18345
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:18508
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:18842
+  tau:0
+ 
+HLT mu-tau cross 0  event:19033
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19039
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19248
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19293
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19367
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19468
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19515
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19668
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:19683
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:19966
+  tau:0
+  tau:1
+Finished entry 20000/99999
+ 
+HLT mu-tau cross 0  event:20048
+  tau:0
+ 
+HLT mu-tau cross 0  event:20130
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:20282
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20314
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20356
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:20422
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20801
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:20919
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21018
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:21349
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21353
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:21443
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21597
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:21776
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22040
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22490
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22499
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22529
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22538
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22784
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:22842
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:22898
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:23201
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:23332
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23419
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23608
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23668
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23705
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23765
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23770
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:23995
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24055
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24086
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:24102
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24121
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24271
+  tau:0
+ 
+HLT mu-tau cross 0  event:24367
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24460
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:24652
+  tau:0
+ 
+HLT mu-tau cross 0  event:24864
+  tau:0
+  tau:1
+Finished entry 25000/99999
+ 
+HLT mu-tau cross 0  event:25106
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25196
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25197
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:25204
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:25558
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:25560
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25577
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:25599
+ 
+HLT mu-tau cross 0  event:25838
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26014
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26046
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26088
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26095
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26171
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26241
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26247
+  tau:0
+ 
+HLT mu-tau cross 0  event:26368
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26395
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26515
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26670
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:26761
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26796
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:26797
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27083
+  tau:0
+ 
+HLT mu-tau cross 0  event:27113
+  tau:0
+ 
+HLT mu-tau cross 0  event:27232
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27309
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:27444
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:27533
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27758
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:27844
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27847
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:27884
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28063
+  tau:0
+ 
+HLT mu-tau cross 0  event:28138
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28254
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28292
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28300
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28381
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28391
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:28480
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28501
+  tau:0
+ 
+HLT mu-tau cross 0  event:28573
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28646
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28703
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28849
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:28869
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:28904
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:28922
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29011
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:29012
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29048
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29079
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:29086
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29166
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29226
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29236
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:29286
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29405
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29524
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:29560
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29597
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29616
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29704
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29730
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:29774
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:29872
+  tau:0
+  tau:1
+Finished entry 30000/99999
+ 
+HLT mu-tau cross 0  event:30037
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30042
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30132
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:30351
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30565
+  tau:0
+ 
+HLT mu-tau cross 0  event:30634
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30673
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30774
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:30816
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:30824
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:31085
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31139
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31203
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31211
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31280
+  tau:0
+ 
+HLT mu-tau cross 0  event:31333
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31356
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31374
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31396
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31560
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:31690
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:31746
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:31941
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32093
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32177
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32322
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32412
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32413
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32544
+  tau:0
+ 
+HLT mu-tau cross 0  event:32744
+  tau:0
+ 
+HLT mu-tau cross 0  event:32794
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32814
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32891
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:32895
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:32991
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33014
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33088
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33111
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33224
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:33237
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33455
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:33631
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:33682
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:33874
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34052
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34201
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34227
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34288
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:34376
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34401
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34403
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34432
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34477
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34589
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34606
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:34607
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34922
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34945
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:34947
+  tau:0
+  tau:1
+  tau:2
+Finished entry 35000/99999
+ 
+HLT mu-tau cross 0  event:35156
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:35314
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:35340
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:35506
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:35509
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:35512
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:35721
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:35824
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36040
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36119
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36215
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36283
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36299
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36419
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36568
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:36617
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36691
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36860
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:36922
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:36987
+  tau:0
+ 
+HLT mu-tau cross 0  event:36999
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37071
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37102
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37107
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:37456
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37464
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37476
+  tau:0
+ 
+HLT mu-tau cross 0  event:37654
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:37744
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37871
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37903
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37958
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:37986
+  tau:0
+ 
+HLT mu-tau cross 0  event:38022
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38061
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:38161
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38302
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38335
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:38417
+ 
+HLT mu-tau cross 0  event:38482
+  tau:0
+ 
+HLT mu-tau cross 0  event:38501
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38530
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38578
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38748
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:38809
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39123
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39227
+  tau:0
+ 
+HLT mu-tau cross 0  event:39316
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39332
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39475
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39578
+  tau:0
+ 
+HLT mu-tau cross 0  event:39645
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:39717
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39726
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39833
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:39840
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:39846
+  tau:0
+ 
+HLT mu-tau cross 0  event:39960
+  tau:0
+ 
+HLT mu-tau cross 0  event:39993
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+Finished entry 40000/99999
+ 
+HLT mu-tau cross 0  event:40152
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:40750
+  tau:0
+ 
+HLT mu-tau cross 0  event:40879
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:40890
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41232
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41250
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41264
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41342
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41347
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:41477
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41706
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41832
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:41938
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42193
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42213
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42236
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42284
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42320
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42465
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42495
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42582
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:42622
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42630
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:42657
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42670
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42677
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42764
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42770
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42782
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42809
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42812
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42930
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:42969
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43050
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43096
+  tau:0
+ 
+HLT mu-tau cross 0  event:43250
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43284
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43333
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43520
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:43530
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43557
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43570
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43588
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43636
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43683
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43830
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43874
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43891
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:43906
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:43965
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:44007
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44011
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44048
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44056
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:44109
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:44149
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:44183
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44258
+  tau:0
+ 
+HLT mu-tau cross 0  event:44291
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44408
+  tau:0
+ 
+HLT mu-tau cross 0  event:44522
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:44553
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44579
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:44606
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:44702
+  tau:0
+ 
+HLT mu-tau cross 0  event:44905
+  tau:0
+ 
+HLT mu-tau cross 0  event:44923
+  tau:0
+  tau:1
+  tau:2
+Finished entry 45000/99999
+ 
+HLT mu-tau cross 0  event:45158
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45171
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45258
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:45303
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45389
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:45459
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45490
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45513
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:45540
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:45675
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:45897
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46030
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46175
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46201
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:46233
+  tau:0
+ 
+HLT mu-tau cross 0  event:46249
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46353
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46365
+  tau:0
+ 
+HLT mu-tau cross 0  event:46394
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:46401
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46417
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46486
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46564
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46592
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:46600
+  tau:0
+ 
+HLT mu-tau cross 0  event:46621
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46630
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46725
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46855
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:46952
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47021
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47136
+  tau:0
+ 
+HLT mu-tau cross 0  event:47151
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47343
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:47362
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47525
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47535
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47670
+  tau:0
+ 
+HLT mu-tau cross 0  event:47871
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:47877
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:47893
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:48031
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:48175
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48176
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48368
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48389
+  tau:0
+ 
+HLT mu-tau cross 0  event:48402
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48515
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48524
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:48538
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:48588
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48648
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:48765
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:48766
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48825
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48890
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:48954
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49010
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:49025
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49029
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49064
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49129
+  tau:0
+ 
+HLT mu-tau cross 0  event:49270
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:49322
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49632
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49642
+  tau:0
+ 
+HLT mu-tau cross 0  event:49644
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49763
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:49854
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:49862
+  tau:0
+ 
+HLT mu-tau cross 0  event:49871
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:49968
+  tau:0
+  tau:1
+Finished entry 50000/99999
+ 
+HLT mu-tau cross 0  event:50105
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50149
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50186
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50283
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:50616
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50622
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:50670
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50706
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:50720
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:50852
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:50962
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51138
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51142
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51169
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51210
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51331
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51421
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51604
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51755
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:51791
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:51793
+  tau:0
+ 
+HLT mu-tau cross 0  event:51844
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52069
+  tau:0
+ 
+HLT mu-tau cross 0  event:52109
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:52121
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52149
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52181
+  tau:0
+ 
+HLT mu-tau cross 0  event:52195
+  tau:0
+ 
+HLT mu-tau cross 0  event:52221
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52243
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52343
+  tau:0
+ 
+HLT mu-tau cross 0  event:52415
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52474
+  tau:0
+ 
+HLT mu-tau cross 0  event:52532
+  tau:0
+ 
+HLT mu-tau cross 0  event:52533
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:52587
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52722
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52736
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52786
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:52912
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:52981
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53055
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53060
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53061
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53081
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53090
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53098
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53102
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53144
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53162
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53185
+  tau:0
+ 
+HLT mu-tau cross 0  event:53289
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53339
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53376
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53442
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53453
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53475
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53554
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53564
+  tau:0
+ 
+HLT mu-tau cross 0  event:53579
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53599
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:53702
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:53750
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:53849
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:53920
+  tau:0
+ 
+HLT mu-tau cross 0  event:53925
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54029
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54040
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54072
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54167
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54206
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54249
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54265
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54297
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54314
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54325
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:54342
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:54355
+  tau:0
+ 
+HLT mu-tau cross 0  event:54393
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54505
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54532
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:54595
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:54610
+  tau:0
+ 
+HLT mu-tau cross 0  event:54670
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54680
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54724
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:54730
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:54902
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:54977
+  tau:0
+  tau:1
+  tau:2
+Finished entry 55000/99999
+ 
+HLT mu-tau cross 0  event:55019
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:55043
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55077
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55082
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55095
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55116
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55127
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55172
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55251
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55291
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55306
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55408
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55412
+  tau:0
+ 
+HLT mu-tau cross 0  event:55582
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55702
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:55726
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55734
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:55786
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55820
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55906
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55941
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55949
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:55975
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:55988
+  tau:0
+ 
+HLT mu-tau cross 0  event:56014
+ 
+HLT mu-tau cross 0  event:56018
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56041
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56094
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56147
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56149
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:56256
+  tau:0
+ 
+HLT mu-tau cross 0  event:56292
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:56293
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56327
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:56332
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56349
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56374
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56393
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56465
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:56504
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56505
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56696
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56741
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+  tau:6
+ 
+HLT mu-tau cross 0  event:56770
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:56900
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56931
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56934
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56943
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56958
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:56988
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:57026
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57153
+  tau:0
+ 
+HLT mu-tau cross 0  event:57185
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57210
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57219
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57295
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57374
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57444
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57558
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57583
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57642
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:57653
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57676
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57686
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57723
+  tau:0
+ 
+HLT mu-tau cross 0  event:57781
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57826
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57882
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57959
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:57973
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:57996
+  tau:0
+ 
+HLT mu-tau cross 0  event:58136
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58183
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58190
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:58192
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:58201
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:58438
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58491
+  tau:0
+ 
+HLT mu-tau cross 0  event:58497
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58587
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:58644
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58696
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:58746
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59058
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59077
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59082
+  tau:0
+ 
+HLT mu-tau cross 0  event:59219
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:59247
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59311
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59357
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59435
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:59595
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59614
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59643
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59697
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59714
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:59957
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:59990
+  tau:0
+Finished entry 60000/99999
+ 
+HLT mu-tau cross 0  event:60071
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60130
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60140
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:60171
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60192
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:60259
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60279
+  tau:0
+ 
+HLT mu-tau cross 0  event:60328
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:60387
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60495
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60566
+  tau:0
+ 
+HLT mu-tau cross 0  event:60582
+  tau:0
+ 
+HLT mu-tau cross 0  event:60604
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60641
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60764
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:60793
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61112
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61224
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61249
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:61337
+  tau:0
+ 
+HLT mu-tau cross 0  event:61417
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61496
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61522
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61567
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61596
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61642
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61670
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61676
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:61726
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61855
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61860
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61892
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:61909
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:61942
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:61944
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62069
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62086
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62121
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62139
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62381
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62578
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62756
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62784
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62831
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:62896
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62908
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:62977
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:62999
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:63005
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63063
+  tau:0
+ 
+HLT mu-tau cross 0  event:63082
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63117
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63203
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63268
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63358
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63359
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63375
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63446
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63529
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63673
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:63749
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63888
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63929
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:63932
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:63969
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64016
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64023
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64066
+  tau:0
+ 
+HLT mu-tau cross 0  event:64120
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64124
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64212
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64259
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64278
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:64303
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64329
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:64340
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64357
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64413
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64430
+  tau:0
+ 
+HLT mu-tau cross 0  event:64499
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64771
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64871
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:64905
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:64906
+  tau:0
+  tau:1
+Finished entry 65000/99999
+ 
+HLT mu-tau cross 0  event:65037
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:65049
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65194
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65277
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:65402
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:65461
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65501
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:65585
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65639
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65660
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65681
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65703
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65796
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:65970
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:65985
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66174
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66210
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:66247
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66268
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:66275
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66436
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66474
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:66489
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:66525
+  tau:0
+ 
+HLT mu-tau cross 0  event:66591
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:66800
+  tau:0
+ 
+HLT mu-tau cross 0  event:66822
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66892
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66962
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:66987
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67027
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67092
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67095
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67133
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67145
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:67334
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67383
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67610
+  tau:0
+ 
+HLT mu-tau cross 0  event:67644
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:67672
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67682
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67796
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67820
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:67856
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68191
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68209
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68256
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68277
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68279
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68282
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68331
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68357
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68456
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68458
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68558
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68603
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68657
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68739
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+  tau:5
+ 
+HLT mu-tau cross 0  event:68789
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68829
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:68906
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:68926
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69137
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:69151
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69285
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69304
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69314
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:69362
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69373
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69376
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:69406
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:69501
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:69550
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69564
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:69565
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:69943
+  tau:0
+  tau:1
+Finished entry 70000/99999
+ 
+HLT mu-tau cross 0  event:70034
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70088
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70146
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70149
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70153
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70162
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70343
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70352
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70465
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70467
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70468
+  tau:0
+ 
+HLT mu-tau cross 0  event:70489
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:70497
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70540
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70570
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70574
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70583
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70640
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:70737
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:70749
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:70763
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:70876
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:70956
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71062
+  tau:0
+ 
+HLT mu-tau cross 0  event:71238
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71271
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:71337
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71434
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71465
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71479
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71503
+  tau:0
+ 
+HLT mu-tau cross 0  event:71507
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71611
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71630
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71738
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:71787
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71897
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:71979
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72052
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72115
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72183
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72317
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72594
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:72614
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72637
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72724
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:72812
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:72850
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73001
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73026
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73040
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73127
+  tau:0
+ 
+HLT mu-tau cross 0  event:73357
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73477
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73561
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73676
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73726
+  tau:0
+ 
+HLT mu-tau cross 0  event:73747
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73751
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73797
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:73877
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:73914
+  tau:0
+ 
+HLT mu-tau cross 0  event:74049
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:74137
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74262
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74264
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74269
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74272
+  tau:0
+ 
+HLT mu-tau cross 0  event:74355
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:74364
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74391
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74393
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74445
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:74450
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74575
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:74668
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:74741
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74887
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:74992
+  tau:0
+  tau:1
+Finished entry 75000/99999
+ 
+HLT mu-tau cross 0  event:75010
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75144
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75175
+  tau:0
+ 
+HLT mu-tau cross 0  event:75205
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75236
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75306
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75430
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75443
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75455
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75503
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75509
+  tau:0
+ 
+HLT mu-tau cross 0  event:75518
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75557
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:75612
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75629
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75664
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75687
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:75736
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75739
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75875
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:75885
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75917
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:75968
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76059
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76090
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:76100
+  tau:0
+ 
+HLT mu-tau cross 0  event:76348
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76400
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76451
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76491
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:76515
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76527
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76541
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76581
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76630
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:76661
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76669
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76724
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76853
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76874
+  tau:0
+ 
+HLT mu-tau cross 0  event:76890
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:76937
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:76962
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77228
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77252
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77278
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77357
+  tau:0
+ 
+HLT mu-tau cross 0  event:77467
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77519
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77551
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77611
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77644
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+  tau:4
+ 
+HLT mu-tau cross 0  event:77696
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77701
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77770
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:77821
+  tau:0
+ 
+HLT mu-tau cross 0  event:77829
+  tau:0
+ 
+HLT mu-tau cross 0  event:77870
+  tau:0
+ 
+HLT mu-tau cross 0  event:78003
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:78008
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:78016
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:78979
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:78998
+  tau:0
+ 
+HLT mu-tau cross 0  event:79041
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79330
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79380
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79439
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79440
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79514
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79600
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79622
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79744
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79755
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79758
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:79843
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79881
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:79884
+  tau:0
+  tau:1
+Finished entry 80000/99999
+ 
+HLT mu-tau cross 0  event:80082
+  tau:0
+ 
+HLT mu-tau cross 0  event:80118
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80366
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80652
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:80656
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80659
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:80814
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:80834
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:81006
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:81231
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:81457
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:81544
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:81978
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82032
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:82241
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82455
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82635
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82695
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:82703
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:82791
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:83151
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:83755
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:83921
+  tau:0
+ 
+HLT mu-tau cross 0  event:84233
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:84283
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84570
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84670
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84688
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:84695
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:84889
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:84975
+  tau:0
+Finished entry 85000/99999
+ 
+HLT mu-tau cross 0  event:85304
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85326
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85555
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85649
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85711
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85768
+  tau:0
+ 
+HLT mu-tau cross 0  event:85802
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:85917
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:86579
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86613
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:86744
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:86790
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86846
+  tau:0
+ 
+HLT mu-tau cross 0  event:86913
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:86924
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86954
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86970
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:86977
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:87043
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:87061
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:87238
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87461
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87469
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:87670
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87712
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87847
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:87973
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:87990
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88006
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88063
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88181
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88316
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88400
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88563
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:88599
+  tau:0
+ 
+HLT mu-tau cross 0  event:88638
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88639
+  tau:0
+ 
+HLT mu-tau cross 0  event:88655
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88724
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88746
+  tau:0
+ 
+HLT mu-tau cross 0  event:88778
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88807
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88811
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:88859
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:88985
+  tau:0
+ 
+HLT mu-tau cross 0  event:89127
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89158
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89248
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89277
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89278
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89311
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89368
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89492
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89527
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89712
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89818
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89869
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:89965
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:89982
+  tau:0
+  tau:1
+Finished entry 90000/99999
+ 
+HLT mu-tau cross 0  event:90070
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90081
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90344
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:90364
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90401
+  tau:0
+ 
+HLT mu-tau cross 0  event:90512
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90653
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:90695
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:90738
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:90917
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91117
+  tau:0
+ 
+HLT mu-tau cross 0  event:91157
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:91232
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:91987
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92050
+  tau:0
+ 
+HLT mu-tau cross 0  event:92088
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92281
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92300
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92313
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92457
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92553
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:92585
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:92829
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92907
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:92941
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93561
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:93604
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:93615
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:93862
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:93983
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:94117
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94141
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94170
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94391
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94511
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:94588
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:94641
+  tau:0
+ 
+HLT mu-tau cross 0  event:94978
+  tau:0
+  tau:1
+Finished entry 95000/99999
+ 
+HLT mu-tau cross 0  event:95011
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95013
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:95481
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95825
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95833
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95844
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95973
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:95978
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96041
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96132
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96190
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96253
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:96522
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:96586
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:96958
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:97019
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:97082
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97092
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97118
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97509
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97552
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97681
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:97757
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:97964
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98015
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98064
+  tau:0
+ 
+HLT mu-tau cross 0  event:98117
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:98129
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98188
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98220
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:98311
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98335
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98355
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98422
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98647
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:98819
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:99072
+  tau:0
+ 
+HLT mu-tau cross 0  event:99088
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99342
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99407
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99409
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99411
+  tau:0
+  tau:1
+  tau:2
+  tau:3
+ 
+HLT mu-tau cross 0  event:99460
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99612
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99653
+  tau:0
+ 
+HLT mu-tau cross 0  event:99751
+  tau:0
+  tau:1
+  tau:2
+ 
+HLT mu-tau cross 0  event:99761
+  tau:0
+  tau:1
+ 
+HLT mu-tau cross 0  event:99966
+  tau:0
+  tau:1
+nPassedSkimmed = 3393
+Real time 0:00:54, CP time 14.550
+out put written to outSkimmed_mt_data.root
+"echo "out put written to $outFile"" command filed with exit code 0.

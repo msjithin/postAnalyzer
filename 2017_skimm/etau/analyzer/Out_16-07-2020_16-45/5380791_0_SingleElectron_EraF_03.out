@@ -1,0 +1,54 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:1033862
+Running over 1033862 events.
+Finished entry 0/1033861
+Finished entry 50000/1033861
+Finished entry 100000/1033861
+Finished entry 150000/1033861
+Finished entry 200000/1033861
+Finished entry 250000/1033861
+Finished entry 300000/1033861
+Finished entry 350000/1033861
+Finished entry 400000/1033861
+Finished entry 450000/1033861
+Finished entry 500000/1033861
+Finished entry 550000/1033861
+Finished entry 600000/1033861
+Finished entry 650000/1033861
+Finished entry 700000/1033861
+Finished entry 750000/1033861
+Finished entry 800000/1033861
+Finished entry 850000/1033861
+Finished entry 900000/1033861
+Finished entry 950000/1033861
+Finished entry 1000000/1033861
+Finished entry 1033861/1033861
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 1033862.000000
+   Passing smikking 0.000000
+Inspected genWeightd 1033862.000000   % change= 0.000000
+   METFiltersPassed 1029690.000000   % change= 0.403535
+    SingleTrgPassed 877105.000000   % change= 14.818538
+     GoodMuonPassed 560273.000000   % change= 36.122471
+      GoodTauPassed 11265.000000   % change= 97.989373
+         opp charge 8766.000000   % change= 22.183755
+         after sf 1 8766.000000   % change= 22.183755
+         after sf 2 0.000000   % change= 22.183755
+         after sf 3 0.000000   % change= 22.183755
+         after sf 4 8992.000000   % change= 22.183755
+ PassedThirdLepVeto 8705.000000   % change= 0.695870
+     PassedBjetVeto 7991.000000   % change= 8.202183
+       DeltaRPassed 7961.000000   % change= 0.375422
+      Total change :99.229975
+*******************************************
+*******************************************
+Number of events inspected: 1033862
+Number of events inspected (minus negative gen. weights): 1033862.000000
+ Outpt written to SingleElectron_EraF_03.root
+Real time 0:03:20, CP time 164.690

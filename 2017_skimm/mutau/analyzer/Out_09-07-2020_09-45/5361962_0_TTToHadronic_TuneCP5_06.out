@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+.... MC file ..... 
+Coming in: 
+nentries:69556
+Running over 69556 events.
+Finished entry 0/69555
+Finished entry 3000/69555
+Finished entry 6000/69555
+Finished entry 9000/69555
+Finished entry 12000/69555
+Finished entry 15000/69555
+Finished entry 18000/69555
+Finished entry 21000/69555
+Finished entry 24000/69555
+Finished entry 27000/69555
+Finished entry 30000/69555
+Finished entry 33000/69555
+Finished entry 36000/69555
+Finished entry 39000/69555
+Finished entry 42000/69555
+Finished entry 45000/69555
+Finished entry 48000/69555
+Finished entry 51000/69555
+Finished entry 54000/69555
+Finished entry 57000/69555
+Finished entry 60000/69555
+Finished entry 63000/69555
+Finished entry 66000/69555
+Finished entry 69000/69555
+Finished entry 69555/69555
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 69556.000000
+   Passing smikking 0.000000
+Inspected genWeightd 69556.000000   % change= 0.000000
+   METFiltersPassed 68197.285484   % change= 1.953411
+    SingleTrgPassed 1611.445463   % change= 97.637083
+     GoodMuonPassed 572.540928   % change= 64.470350
+      GoodTauPassed 22.887449   % change= 96.002478
+         opp charge 8.630279   % change= 62.292527
+         after sf 1 0.000000   % change= 62.292527
+         after sf 2 0.000000   % change= 62.292527
+         after sf 3 0.000000   % change= 62.292527
+         after sf 4 6.555073   % change= 62.292527
+ PassedThirdLepVeto 6.555073   % change= 24.045638
+     PassedBjetVeto 1.947586   % change= 70.288881
+       DeltaRPassed 1.947586   % change= 0.000000
+      Total change :99.997200
+*******************************************
+*******************************************
+Number of events inspected: 69556
+Number of events inspected (minus negative gen. weights): 69556.000000
+ Outpt written to TTToHadronic_TuneCP5_06.root
+Real time 0:00:39, CP time 21.180

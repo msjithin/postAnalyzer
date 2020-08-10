@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108453
+Running over 108453 events.
+Finished entry 0/108452
+Finished entry 5000/108452
+Finished entry 10000/108452
+Finished entry 15000/108452
+Finished entry 20000/108452
+Finished entry 25000/108452
+Finished entry 30000/108452
+Finished entry 35000/108452
+Finished entry 40000/108452
+Finished entry 45000/108452
+Finished entry 50000/108452
+Finished entry 55000/108452
+Finished entry 60000/108452
+Finished entry 65000/108452
+Finished entry 70000/108452
+Finished entry 75000/108452
+Finished entry 80000/108452
+Finished entry 85000/108452
+Finished entry 90000/108452
+Finished entry 95000/108452
+Finished entry 100000/108452
+Finished entry 105000/108452
+Finished entry 108452/108452
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108453.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108451.000000   % change= 0.001844
+   METFiltersPassed 104227.553280   % change= 3.894336
+    SingleTrgPassed 82256.131993   % change= 21.080243
+     GoodMuonPassed 71300.429185   % change= 13.319010
+      GoodTauPassed 2041.490053   % change= 97.136777
+         opp charge 1736.419853   % change= 14.943507
+         after sf 1 0.000000   % change= 14.943507
+         after sf 2 0.000000   % change= 14.943507
+         after sf 3 0.000000   % change= 14.943507
+         after sf 4 1440.854779   % change= 14.943507
+ PassedThirdLepVeto 1437.742125   % change= 17.200778
+     PassedBjetVeto 1429.698643   % change= 0.559452
+       DeltaRPassed 1425.921775   % change= 0.264172
+      Total change :98.685217
+*******************************************
+*******************************************
+Number of events inspected: 108453
+Number of events inspected (minus negative gen. weights): 108451.000000
+ Outpt written to W1JetsToLNu_TuneCP5_01.root
+Real time 0:00:54, CP time 40.890

@@ -1,0 +1,50 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:40838
+Running over 40838 events.
+Finished entry 0/40837
+Finished entry 2000/40837
+Finished entry 4000/40837
+Finished entry 6000/40837
+Finished entry 8000/40837
+Finished entry 10000/40837
+Finished entry 12000/40837
+Finished entry 14000/40837
+Finished entry 16000/40837
+Finished entry 18000/40837
+Finished entry 20000/40837
+Finished entry 22000/40837
+Finished entry 24000/40837
+Finished entry 26000/40837
+Finished entry 28000/40837
+Finished entry 30000/40837
+Finished entry 32000/40837
+Finished entry 34000/40837
+Finished entry 36000/40837
+Finished entry 38000/40837
+Finished entry 40000/40837
+Finished entry 40837/40837
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 40838.000000
+   Passing smikking 0.000000
+Inspected genWeightd 40838.000000   % change= 0.000000
+   METFiltersPassed 39874.231662   % change= 2.359979
+    SingleTrgPassed 23668.277421   % change= 40.642675
+     GoodMuonPassed 20701.308060   % change= 12.535637
+      GoodTauPassed 1216.569371   % change= 94.123225
+         opp charge 783.747088   % change= 35.577279
+ PassedThirdLepVeto 0.000000   % change= 100.000000
+     PassedBjetVeto 0.000000   % change= -nan
+       DeltaRPassed 0.000000   % change= -nan
+      Total change :100.000000
+*******************************************
+*******************************************
+Number of events inspected: 40838
+Number of events inspected (minus negative gen. weights): 40838.000000
+ Outpt written to ZZ_TuneCP5_00.root
+Real time 0:00:17, CP time 11.700

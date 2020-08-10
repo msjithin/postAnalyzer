@@ -1,0 +1,55 @@
+All files added.
+Initializing chain.
+****************** wjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:108793
+Running over 108793 events.
+Finished entry 0/108792
+Finished entry 5000/108792
+Finished entry 10000/108792
+Finished entry 15000/108792
+Finished entry 20000/108792
+Finished entry 25000/108792
+Finished entry 30000/108792
+Finished entry 35000/108792
+Finished entry 40000/108792
+Finished entry 45000/108792
+Finished entry 50000/108792
+Finished entry 55000/108792
+Finished entry 60000/108792
+Finished entry 65000/108792
+Finished entry 70000/108792
+Finished entry 75000/108792
+Finished entry 80000/108792
+Finished entry 85000/108792
+Finished entry 90000/108792
+Finished entry 95000/108792
+Finished entry 100000/108792
+Finished entry 105000/108792
+Finished entry 108792/108792
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 108793.000000
+   Passing smikking 0.000000
+Inspected genWeightd 108791.000000   % change= 0.001838
+   METFiltersPassed 104717.072555   % change= 3.744728
+    SingleTrgPassed 82753.087278   % change= 20.974598
+     GoodMuonPassed 71837.029677   % change= 13.191118
+      GoodTauPassed 2173.277357   % change= 96.974712
+         opp charge 1838.981800   % change= 15.382094
+         after sf 1 0.000000   % change= 15.382094
+         after sf 2 0.000000   % change= 15.382094
+         after sf 3 0.000000   % change= 15.382094
+         after sf 4 1523.782590   % change= 15.382094
+ PassedThirdLepVeto 1520.957981   % change= 17.293473
+     PassedBjetVeto 1509.655760   % change= 0.743099
+       DeltaRPassed 1506.686014   % change= 0.196717
+      Total change :98.615089
+*******************************************
+*******************************************
+Number of events inspected: 108793
+Number of events inspected (minus negative gen. weights): 108791.000000
+ Outpt written to W1JetsToLNu_TuneCP5_05.root
+Real time 0:00:36, CP time 24.990

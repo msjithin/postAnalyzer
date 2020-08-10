@@ -1,0 +1,57 @@
+All files added.
+Initializing chain.
+from Init DATA
+.... DATA file ..... 
+Coming in: 
+nentries:947571
+Running over 947571 events.
+Finished entry 0/947570
+Finished entry 40000/947570
+Finished entry 80000/947570
+Finished entry 120000/947570
+Finished entry 160000/947570
+Finished entry 200000/947570
+Finished entry 240000/947570
+Finished entry 280000/947570
+Finished entry 320000/947570
+Finished entry 360000/947570
+Finished entry 400000/947570
+Finished entry 440000/947570
+Finished entry 480000/947570
+Finished entry 520000/947570
+Finished entry 560000/947570
+Finished entry 600000/947570
+Finished entry 640000/947570
+Finished entry 680000/947570
+Finished entry 720000/947570
+Finished entry 760000/947570
+Finished entry 800000/947570
+Finished entry 840000/947570
+Finished entry 880000/947570
+Finished entry 920000/947570
+Finished entry 947570/947570
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 947571.000000
+   Passing smikking 0.000000
+Inspected genWeightd 947571.000000   % change= 0.000000
+   METFiltersPassed 943459.000000   % change= 0.433952
+    SingleTrgPassed 806952.000000   % change= 14.468779
+     GoodMuonPassed 522150.000000   % change= 35.293549
+      GoodTauPassed 10502.000000   % change= 97.988701
+         opp charge 8151.000000   % change= 22.386212
+         after sf 1 8151.000000   % change= 22.386212
+         after sf 2 0.000000   % change= 22.386212
+         after sf 3 0.000000   % change= 22.386212
+         after sf 4 8394.000000   % change= 22.386212
+ PassedThirdLepVeto 8109.000000   % change= 0.515274
+     PassedBjetVeto 7450.000000   % change= 8.126773
+       DeltaRPassed 7419.000000   % change= 0.416107
+      Total change :99.217051
+*******************************************
+*******************************************
+Number of events inspected: 947571
+Number of events inspected (minus negative gen. weights): 947571.000000
+ Outpt written to SingleElectron_EraF_02.root
+Real time 0:03:56, CP time 164.360

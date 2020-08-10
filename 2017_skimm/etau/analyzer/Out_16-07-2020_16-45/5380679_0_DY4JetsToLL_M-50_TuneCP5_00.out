@@ -1,0 +1,74 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:392457
+Running over 392457 events.
+Finished entry 0/392456
+Finished entry 10000/392456
+Finished entry 20000/392456
+Finished entry 30000/392456
+Finished entry 40000/392456
+Finished entry 50000/392456
+Finished entry 60000/392456
+Finished entry 70000/392456
+Finished entry 80000/392456
+Finished entry 90000/392456
+Finished entry 100000/392456
+Finished entry 110000/392456
+Finished entry 120000/392456
+Finished entry 130000/392456
+Finished entry 140000/392456
+Finished entry 150000/392456
+Finished entry 160000/392456
+Finished entry 170000/392456
+Finished entry 180000/392456
+Finished entry 190000/392456
+Finished entry 200000/392456
+Finished entry 210000/392456
+Finished entry 220000/392456
+Finished entry 230000/392456
+Finished entry 240000/392456
+Finished entry 250000/392456
+Finished entry 260000/392456
+Finished entry 270000/392456
+Finished entry 280000/392456
+Finished entry 290000/392456
+Finished entry 300000/392456
+Finished entry 310000/392456
+Finished entry 320000/392456
+Finished entry 330000/392456
+Finished entry 340000/392456
+Finished entry 350000/392456
+Finished entry 360000/392456
+Finished entry 370000/392456
+Finished entry 380000/392456
+Finished entry 390000/392456
+Finished entry 392456/392456
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 392457.000000
+   Passing smikking 0.000000
+Inspected genWeightd 392073.000000   % change= 0.097845
+   METFiltersPassed 363430.931412   % change= 7.305290
+    SingleTrgPassed 262392.895145   % change= 27.801166
+     GoodMuonPassed 231366.834987   % change= 11.824276
+      GoodTauPassed 7486.773716   % change= 96.764111
+         opp charge 4910.612091   % change= 34.409503
+         after sf 1 4910.612091   % change= 34.409503
+         after sf 2 0.000000   % change= 34.409503
+         after sf 3 0.000000   % change= 34.409503
+         after sf 4 4673.474488   % change= 34.409503
+ PassedThirdLepVeto 3696.377358   % change= 24.726749
+     PassedBjetVeto 3430.019634   % change= 7.205913
+       DeltaRPassed 3313.333136   % change= 3.401919
+      Total change :99.155746
+*******************************************
+*******************************************
+Number of events inspected: 392457
+Number of events inspected (minus negative gen. weights): 392073.000000
+ Outpt written to DY4JetsToLL_M-50_TuneCP5_00.root
+Real time 0:02:57, CP time 122.280

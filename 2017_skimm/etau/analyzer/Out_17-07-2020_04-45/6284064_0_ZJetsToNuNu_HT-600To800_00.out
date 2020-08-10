@@ -1,0 +1,56 @@
+All files added.
+Initializing chain.
+from Init MC
+.... MC file ..... 
+Coming in: 
+nentries:22655
+Running over 22655 events.
+Finished entry 0/22654
+Finished entry 1000/22654
+Finished entry 2000/22654
+Finished entry 3000/22654
+Finished entry 4000/22654
+Finished entry 5000/22654
+Finished entry 6000/22654
+Finished entry 7000/22654
+Finished entry 8000/22654
+Finished entry 9000/22654
+Finished entry 10000/22654
+Finished entry 11000/22654
+Finished entry 12000/22654
+Finished entry 13000/22654
+Finished entry 14000/22654
+Finished entry 15000/22654
+Finished entry 16000/22654
+Finished entry 17000/22654
+Finished entry 18000/22654
+Finished entry 19000/22654
+Finished entry 20000/22654
+Finished entry 21000/22654
+Finished entry 22000/22654
+Finished entry 22654/22654
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 22655.000000
+   Passing smikking 0.000000
+Inspected genWeightd 22555.000000   % change= 0.441404
+   METFiltersPassed 20195.121421   % change= 10.462774
+    SingleTrgPassed 184.167109   % change= 99.088061
+     GoodMuonPassed 48.996591   % change= 73.395580
+      GoodTauPassed 2.531211   % change= 94.833904
+         opp charge 1.240285   % change= 51.000335
+         after sf 1 1.240285   % change= 51.000335
+         after sf 2 0.000000   % change= 51.000335
+         after sf 3 0.000000   % change= 51.000335
+         after sf 4 0.847057   % change= 51.000335
+ PassedThirdLepVeto 0.847057   % change= 31.704638
+     PassedBjetVeto 0.847057   % change= 0.000000
+       DeltaRPassed 0.847057   % change= 0.000000
+      Total change :99.996261
+*******************************************
+*******************************************
+Number of events inspected: 22655
+Number of events inspected (minus negative gen. weights): 22555.000000
+ Outpt written to ZJetsToNuNu_HT-600To800_00.root
+Real time 0:00:12, CP time 7.820

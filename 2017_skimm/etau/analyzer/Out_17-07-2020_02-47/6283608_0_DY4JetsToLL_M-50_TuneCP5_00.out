@@ -1,0 +1,70 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:392457
+Running over 392457 events.
+Finished entry 0/392456
+Finished entry 10000/392456
+Finished entry 20000/392456
+Finished entry 30000/392456
+Finished entry 40000/392456
+Finished entry 50000/392456
+Finished entry 60000/392456
+Finished entry 70000/392456
+Finished entry 80000/392456
+Finished entry 90000/392456
+Finished entry 100000/392456
+Finished entry 110000/392456
+Finished entry 120000/392456
+Finished entry 130000/392456
+Finished entry 140000/392456
+Finished entry 150000/392456
+Finished entry 160000/392456
+Finished entry 170000/392456
+Finished entry 180000/392456
+Finished entry 190000/392456
+Finished entry 200000/392456
+Finished entry 210000/392456
+Finished entry 220000/392456
+Finished entry 230000/392456
+Finished entry 240000/392456
+Finished entry 250000/392456
+Finished entry 260000/392456
+Finished entry 270000/392456
+Finished entry 280000/392456
+Finished entry 290000/392456
+Finished entry 300000/392456
+Finished entry 310000/392456
+Finished entry 320000/392456
+Finished entry 330000/392456
+Finished entry 340000/392456
+Finished entry 350000/392456
+Finished entry 360000/392456
+Finished entry 370000/392456
+Finished entry 380000/392456
+Finished entry 390000/392456
+Finished entry 392456/392456
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 392457.000000
+   Passing smikking 0.000000
+Inspected genWeightd 392073.000000   % change= 0.097845
+   METFiltersPassed 384351.088055   % change= 1.969509
+    SingleTrgPassed 277431.297149   % change= 27.818262
+     GoodMuonPassed 240764.665457   % change= 13.216473
+      GoodTauPassed 7757.353229   % change= 96.778035
+         opp charge 5081.030521   % change= 34.500462
+ PassedThirdLepVeto 2.514223   % change= 99.950517
+     PassedBjetVeto 2.514223   % change= 0.000000
+       DeltaRPassed 1.701485   % change= 32.325586
+      Total change :99.999566
+*******************************************
+*******************************************
+Number of events inspected: 392457
+Number of events inspected (minus negative gen. weights): 392073.000000
+ Outpt written to DY4JetsToLL_M-50_TuneCP5_00.root
+Real time 0:04:12, CP time 192.640

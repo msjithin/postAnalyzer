@@ -1,0 +1,59 @@
+All files added.
+Initializing chain.
+from Init MC
+****************** dyjet sample found
+.... MC file ..... 
+Coming in: 
+nentries:492970
+Running over 492970 events.
+Finished entry 0/492969
+Finished entry 20000/492969
+Finished entry 40000/492969
+Finished entry 60000/492969
+Finished entry 80000/492969
+Finished entry 100000/492969
+Finished entry 120000/492969
+Finished entry 140000/492969
+Finished entry 160000/492969
+Finished entry 180000/492969
+Finished entry 200000/492969
+Finished entry 220000/492969
+Finished entry 240000/492969
+Finished entry 260000/492969
+Finished entry 280000/492969
+Finished entry 300000/492969
+Finished entry 320000/492969
+Finished entry 340000/492969
+Finished entry 360000/492969
+Finished entry 380000/492969
+Finished entry 400000/492969
+Finished entry 420000/492969
+Finished entry 440000/492969
+Finished entry 460000/492969
+Finished entry 480000/492969
+Finished entry 492969/492969
+All events checked.
+*******************************************
+******************Jithin's original*************************
+    Initial entries 492970.000000
+   Passing smikking 0.000000
+Inspected genWeightd 492964.000000   % change= 0.001217
+   METFiltersPassed 470061.947550   % change= 4.645786
+    SingleTrgPassed 332237.627387   % change= 29.320459
+     GoodMuonPassed 294434.868664   % change= 11.378229
+      GoodTauPassed 6448.778097   % change= 97.809778
+         opp charge 4743.247919   % change= 26.447339
+         after sf 1 4743.247919   % change= 26.447339
+         after sf 2 0.000000   % change= 26.447339
+         after sf 3 0.000000   % change= 26.447339
+         after sf 4 4023.334125   % change= 26.447339
+ PassedThirdLepVeto 3435.785730   % change= 27.564703
+     PassedBjetVeto 3323.497295   % change= 3.268202
+       DeltaRPassed 3322.972406   % change= 0.015793
+      Total change :99.325928
+*******************************************
+*******************************************
+Number of events inspected: 492970
+Number of events inspected (minus negative gen. weights): 492964.000000
+ Outpt written to DY1JetsToLL_M-50_TuneCP5_03.root
+Real time 0:02:48, CP time 119.940

@@ -1,0 +1,40 @@
+elePt_a
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_a_etau_DY.png has been created
+elePt_b
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_b_etau_DY.png has been created
+elePt_c
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_c_etau_DY.png has been created
+elePt_d
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_d_etau_DY.png has been created
+elePt_e
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_e_etau_DY.png has been created
+elePt_f
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_f_etau_DY.png has been created
+elePt_g
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_g_etau_DY.png has been created
+elePt_h
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_h_etau_DY.png has been created
+elePt_i
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_i_etau_DY.png has been created
+elePt_j
+Error in <TGClient::TGClient>: can't open display "localhost:10.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+Info in <TCanvas::Print>: png file plots/plot_elePt_j_etau_DY.png has been created
